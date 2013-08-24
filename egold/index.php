@@ -14,6 +14,4 @@
 define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
-echo "<h1>Hello, World!</h1>;
-
 require('./wp-blog-header.php');
