@@ -1,0 +1,14 @@
+1.8.3 Fixed typo & line of PHP from older version (thx Fingli)
+1.8.2 Fixed PHP deprecated & notices (thx Fingli), smaller HTML, new favicon
+1.8.1 Added GPL license - as demanded by Wordpress, fixed few PHP notices (thx Frumph)
+1.8   checked Wordpress 3.0.1 compatibility, Wordpress 3.0 Custom Menu support, new colorpicker (http://jscolor.com), more things to customize, 3 new themes, updated Mail.html w/ instructions, changed twitter and mail icons, minor CSS tweaks with countdown, moved countdown date more to future
+
+                   <----- Over9000 downloads! (Actually, more than 15 000 - thank you!) ----->
+
+1.7.2 Fixed typo (thx Adam)
+1.7.1 Unified Admin interface, added custom timeout message, checked Wordpress 2.9 Beta 2 compatibility
+1.7   More customization, JS 404 redirect to homepage
+1.6.1 Rewritten CSS handling etc.
+1.6   Updated 404, new theme options, more customizations
+1.5   Rewritten main theme script. New themes, functions
+1.0   Initial release

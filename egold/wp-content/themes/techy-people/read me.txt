@@ -1,0 +1,35 @@
+Techy People is a light weight, fast loading theme. It’s meant to be used by tech related blogs, but its clean look may suit a lot of niches.
+
+    * Fixed width.
+    * Widget ready.
+    * Adsense Ready.
+    * Logo or text header.
+    * Logo .psd included.
+    * Gravatar ready.
+    * Separated comments and trackbacks.
+    * Image gallery ready.
+    * Wp-Captions ready.
+    * Valid CSS and XHTML.
+
+The logo .psd is inside images folder. Edit it as you wish and:
+
+Go to header.php and comment this piece of code:
+
+<div class="blogname">
+<a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a>
+</div>
+<div class="description">
+<?php bloginfo('description'); ?>
+</div>
+
+Then uncomment this:
+
+<!--
+
+<div class="logo">
+<a class="logo" href="<?php echo get_option('home'); ?>/"></a>
+</div>
+
+-->
+
+http://wcs.ofimdavarzea.com/free-wordpress-theme-techy-people/

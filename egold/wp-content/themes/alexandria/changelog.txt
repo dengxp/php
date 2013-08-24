@@ -1,0 +1,18 @@
+
+Version: 1.0.10
+------------------------------------------
+Added on/off switches for quote sections.
+
+
+Version: 1.0.9
+------------------------------------------
+Added theme url.
+Made theme more child theme friendly and included a sample child theme.
+Changed theme option page wording.
+
+
+Version: 1.0.8
+------------------------------------------
+
+Added Translation files.
+Fixed Vertical scrol bar issue in chrome for social section.

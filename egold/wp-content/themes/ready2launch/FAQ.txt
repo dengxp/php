@@ -1,0 +1,29 @@
+1,
+How do I install Wordpress?
+http://codex.wordpress.org/Installing_WordPress
+
+2,
+What are the requirements?
+	a1, Wordpress
+	    - OR -
+	a2, Just a simple webhosting, no PHP/MySQL...
+	b, And at least basic text editing skills (If you are able to view this file, you have them)
+
+3,
+Can I include my own logo?
+Yes, (if you have the right one).
+To put a logo to Ready2Launch!, logo have to be the right format (not too big/small). To simply paste it:
+	a, upload it to your web, to /images folder
+	b, Edit index.html and between <h1> and </h1> tags, where is your Page title, put this <img src="images/myownlogo.jpg" alt="My Website Logo" /> (delete text, that was between <h1> & </h1> tags and change logo filename in code (e.g. from images/myownlogo.jpg to images/logo.gif etc) so it matches). If logo is not showing, check, that it is reachable in images/ folder.
+	   - OR -
+Include your logo in theme images (needed software like Gimp or Photoshop - or ask me http://ready2launch.jedenbod.cz)
+
+4,
+Logo is too big/small!
+Use some image editing software to resize it to right size - (ask your graphic designer - or me http://ready2launch.jedenbod.cz/ ).
+
+5,
+Need further help?
+You may contact me on jakub@jedenbod.cz| http://jakub.jedenbod.cz
+
+--- Theme Website: http://ready2launch.jedenbod.cz ---

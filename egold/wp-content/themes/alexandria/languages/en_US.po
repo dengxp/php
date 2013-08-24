@@ -1,0 +1,773 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: alexandria\n"
+"POT-Creation-Date: 2013-07-22 16:11+0530\n"
+"PO-Revision-Date: 2013-07-22 16:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Not Found!"
+msgstr ""
+
+#: ../404.php:16
+msgid ""
+"You are looking for something that is not here. Please use the seach form "
+"below."
+msgstr ""
+
+#: ../archive.php:17
+msgid "Archives for : "
+msgstr ""
+
+#: ../archive.php:48 ../home.php:30 ../index-standard.php:23 ../index.php:24
+#: ../single.php:39
+msgid "Posted by : "
+msgstr ""
+
+#: ../archive.php:48 ../home.php:30 ../index-standard.php:23 ../index.php:24
+#: ../single.php:39
+msgid " On : "
+msgstr ""
+
+#: ../archive.php:52 ../home.php:34 ../index-standard.php:28 ../index.php:28
+#: ../search.php:39 ../single.php:46
+msgid "Category:"
+msgstr ""
+
+#: ../archive.php:55 ../home.php:37 ../index-standard.php:31 ../index.php:31
+#: ../search.php:42 ../single.php:49
+msgid "Tags:"
+msgstr ""
+
+#: ../archive.php:66 ../home.php:48 ../index-page.php:19
+#: ../index-standard.php:43 ../index.php:42 ../page-sidebar.php:30
+#: ../page.php:23 ../search.php:54 ../single.php:61
+msgid "<span>Continue Reading >></span>"
+msgstr ""
+
+#: ../archive.php:68 ../home.php:50 ../index-standard.php:45 ../index.php:44
+#: ../single.php:67
+msgid "Pages: "
+msgstr ""
+
+#: ../archive.php:78 ../home.php:60 ../index-standard.php:55 ../index.php:54
+#: ../search.php:66
+msgid "Previous"
+msgstr ""
+
+#: ../archive.php:79 ../home.php:61 ../index-standard.php:56 ../index.php:55
+#: ../search.php:67
+msgid "Next"
+msgstr ""
+
+#: ../archive.php:94 ../home.php:76 ../index-standard.php:71 ../index.php:70
+#: ../search.php:82
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: ../comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:16
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:23
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:23
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:44 ../options.php:576 ../options.php:596 ../options.php:616
+#: ../options.php:636
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:44 ../comments.php:46
+msgid "(required)"
+msgstr ""
+
+#: ../comments.php:46
+msgid "E-mail"
+msgstr ""
+
+#: ../comments.php:48
+msgid "Website"
+msgstr ""
+
+#: ../footer-one.php:7 ../footer-two.php:7
+msgid "&copy; All rights reserved."
+msgstr ""
+
+#: ../footer-one.php:10 ../footer-one.php:15 ../footer-two.php:10
+#: ../footer-two.php:15
+msgid "Powered by "
+msgstr ""
+
+#: ../footer-one.php:10 ../footer-one.php:15 ../footer-two.php:10
+#: ../footer-two.php:15
+msgid "WordPress"
+msgstr ""
+
+#: ../footer-one.php:11 ../footer-two.php:11
+msgid "Designed by "
+msgstr ""
+
+#: ../footer-one.php:11 ../footer-two.php:11
+msgid "ThemeAlley.Com"
+msgstr ""
+
+#: ../footer-one.php:36 ../footer-two.php:36
+msgid "Archives"
+msgstr ""
+
+#: ../footer-one.php:62
+msgid "Authors"
+msgstr ""
+
+#: ../footer-one.php:90 ../footer-two.php:62
+msgid "Pages"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Main Navigation"
+msgstr ""
+
+#: ../functions.php:203
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:203
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:205
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:289
+msgid "Select a Menu to appear here in Dashboard->Appearance->Menus "
+msgstr ""
+
+#: ../functions.php:296
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:322
+msgid "Default"
+msgstr ""
+
+#: ../functions.php:323
+msgid "Footer Left"
+msgstr ""
+
+#: ../functions.php:325
+msgid "Footer Center"
+msgstr ""
+
+#: ../functions.php:327
+msgid "Footer Right"
+msgstr ""
+
+#: ../functions.php:370
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../index-bone.php:12 ../index-btwo.php:14
+msgid "Welcome Headline Comes Here"
+msgstr ""
+
+#: ../index-bone.php:21 ../index-btwo.php:23
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"one tab of theme options page. You can change this text in welcome text box "
+"of welcome section block in Biz two tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:51 ../index-btwo.php:56
+msgid "Design"
+msgstr ""
+
+#: ../index-bone.php:61 ../index-btwo.php:66
+msgid ""
+"You can change this text in description box of left section block in Biz two "
+"tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:90 ../index-btwo.php:101
+msgid "Development"
+msgstr ""
+
+#: ../index-bone.php:101 ../index-btwo.php:111
+msgid ""
+"You can change this text in description box of center section block in Biz "
+"two tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:131 ../index-btwo.php:146
+msgid "Marketing"
+msgstr ""
+
+#: ../index-bone.php:142 ../index-btwo.php:156
+msgid ""
+"You can change this text in description box of right section block in Biz "
+"two tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:162 ../index-btwo.php:178
+msgid ""
+"You can change this text in quote box of quote section block in Biz two tab "
+"of theme options page. You can change this text in quote box of quote "
+"section block in Biz two tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:172 ../index-btwo.php:188
+msgid "Mac Taylor"
+msgstr ""
+
+#: ../index-page.php:25 ../page-sidebar.php:36 ../page.php:29 ../search.php:56
+msgid "Pages:"
+msgstr ""
+
+#: ../options.php:27
+msgid "No"
+msgstr ""
+
+#: ../options.php:27
+msgid "Yes"
+msgstr ""
+
+#: ../options.php:39
+msgid "Select a page:"
+msgstr ""
+
+#: ../options.php:54 ../options.php:57
+msgid "Select a Skin"
+msgstr ""
+
+#: ../options.php:58
+msgid ""
+"If you are not using child theme, selecting child theme will be same as "
+"using alexandria skin. If you are using child theme, then lite.css from the "
+"child theme will be used."
+msgstr ""
+
+#: ../options.php:71
+msgid "Single Page Settings"
+msgstr ""
+
+#: ../options.php:74
+msgid "Show Featured Image?"
+msgstr ""
+
+#: ../options.php:75
+msgid "Select yes if you want to show featured image."
+msgstr ""
+
+#: ../options.php:82
+msgid "Show Ratings?"
+msgstr ""
+
+#: ../options.php:83
+msgid "Select yes if you want to show ratings under post title."
+msgstr ""
+
+#: ../options.php:90
+msgid "Show Posted by and Date?"
+msgstr ""
+
+#: ../options.php:91
+msgid "Select yes if you want to show Posted by and Date under post title."
+msgstr ""
+
+#: ../options.php:98
+msgid "Show Categories and Tags?"
+msgstr ""
+
+#: ../options.php:99
+msgid "Select yes if you want to show categories under post title."
+msgstr ""
+
+#: ../options.php:106
+msgid "Show Next/Previous Box"
+msgstr ""
+
+#: ../options.php:107
+msgid "Select yes if you want to show Next/Previous box on single post page."
+msgstr ""
+
+#: ../options.php:125 ../admin/options-framework.php:290
+msgid "Social Settings"
+msgstr ""
+
+#: ../options.php:128
+msgid "Twitter"
+msgstr ""
+
+#: ../options.php:129
+msgid "Enter your twitter id"
+msgstr ""
+
+#: ../options.php:134
+msgid "Redditt"
+msgstr ""
+
+#: ../options.php:135
+msgid "Enter your reddit url"
+msgstr ""
+
+#: ../options.php:140
+msgid "Facebook"
+msgstr ""
+
+#: ../options.php:141
+msgid "Enter your facebook url"
+msgstr ""
+
+#: ../options.php:146
+msgid "Stumble"
+msgstr ""
+
+#: ../options.php:147
+msgid "Enter your stumbleupon url"
+msgstr ""
+
+#: ../options.php:152
+msgid "Flickr"
+msgstr ""
+
+#: ../options.php:153
+msgid "Enter your flickr url"
+msgstr ""
+
+#: ../options.php:158
+msgid "LinkedIn"
+msgstr ""
+
+#: ../options.php:159
+msgid "Enter your linkedin url"
+msgstr ""
+
+#: ../options.php:164
+msgid "Google"
+msgstr ""
+
+#: ../options.php:165
+msgid "Enter your google url"
+msgstr ""
+
+#: ../options.php:178
+msgid "Logo Section Settings"
+msgstr ""
+
+#: ../options.php:181
+msgid "Logo Upload"
+msgstr ""
+
+#: ../options.php:184
+msgid "Upload Logo"
+msgstr ""
+
+#: ../options.php:185
+msgid "Upload your logo here."
+msgstr ""
+
+#: ../options.php:191
+msgid "Logo Section Layout"
+msgstr ""
+
+#: ../options.php:195
+msgid "Select a layout"
+msgstr ""
+
+#: ../options.php:196
+msgid "Images for logo section."
+msgstr ""
+
+#: ../options.php:213
+msgid "Select Header Type"
+msgstr ""
+
+#: ../options.php:216
+msgid "Select which type of header"
+msgstr ""
+
+#: ../options.php:217
+msgid ""
+"Header One or WordPress Custom header feature. If you select custom header, "
+"go to appearance->Header and set a custom header"
+msgstr ""
+
+#: ../options.php:230
+msgid "Header On/Off Settings"
+msgstr ""
+
+#: ../options.php:234
+msgid "Show Header on homepage"
+msgstr ""
+
+#: ../options.php:235
+msgid "Select yes if you want to show Header on homepage."
+msgstr ""
+
+#: ../options.php:242
+msgid "Show Header on Single post page"
+msgstr ""
+
+#: ../options.php:243
+msgid "Select yes if you want to show Header on Single post page."
+msgstr ""
+
+#: ../options.php:250
+msgid "Show Header on Pages"
+msgstr ""
+
+#: ../options.php:251
+msgid "Select yes if you want to show Header on Pages."
+msgstr ""
+
+#: ../options.php:258
+msgid "Show Header on Category Pages"
+msgstr ""
+
+#: ../options.php:259
+msgid "Select yes if you want to show Header on Category Pages."
+msgstr ""
+
+#: ../options.php:273 ../admin/options-framework.php:294
+msgid "Header One Settings"
+msgstr ""
+
+#: ../options.php:276 ../options.php:340 ../options.php:458
+msgid "Welcome Section"
+msgstr ""
+
+#: ../options.php:279 ../options.php:359 ../options.php:385 ../options.php:411
+#: ../options.php:477 ../options.php:503 ../options.php:529 ../options.php:571
+#: ../options.php:591 ../options.php:611 ../options.php:631
+msgid "Upload Image"
+msgstr ""
+
+#: ../options.php:280 ../options.php:360 ../options.php:386 ../options.php:412
+#: ../options.php:478 ../options.php:504 ../options.php:530 ../options.php:572
+#: ../options.php:592 ../options.php:612 ../options.php:632
+msgid "Upload your image here."
+msgstr ""
+
+#: ../options.php:284 ../options.php:343 ../options.php:364 ../options.php:390
+#: ../options.php:416 ../options.php:461 ../options.php:482 ../options.php:508
+#: ../options.php:534
+msgid "Headline"
+msgstr ""
+
+#: ../options.php:285 ../options.php:344 ../options.php:365 ../options.php:391
+#: ../options.php:417 ../options.php:462 ../options.php:483 ../options.php:509
+#: ../options.php:535
+msgid "Enter the headline"
+msgstr ""
+
+#: ../options.php:289
+msgid "Feature text"
+msgstr ""
+
+#: ../options.php:290
+msgid "Enter the feature text"
+msgstr ""
+
+#: ../options.php:294
+msgid "Call To Action text"
+msgstr ""
+
+#: ../options.php:295
+msgid "Enter the text"
+msgstr ""
+
+#: ../options.php:299
+msgid "Call To Action Link"
+msgstr ""
+
+#: ../options.php:300
+msgid "Enter the full url"
+msgstr ""
+
+#: ../options.php:315
+msgid "Layout Settings"
+msgstr ""
+
+#: ../options.php:318
+msgid "Select a homepage layout"
+msgstr ""
+
+#: ../options.php:319 ../options.php:678
+msgid "Images for layout."
+msgstr ""
+
+#: ../options.php:337 ../admin/options-framework.php:296
+msgid "Biz One Settings"
+msgstr ""
+
+#: ../options.php:348 ../options.php:369 ../options.php:395 ../options.php:421
+#: ../options.php:466 ../options.php:487 ../options.php:513 ../options.php:539
+msgid "Welcome text"
+msgstr ""
+
+#: ../options.php:349 ../options.php:370 ../options.php:396 ../options.php:422
+#: ../options.php:467 ../options.php:488 ../options.php:514 ../options.php:540
+msgid "Enter the welcome text"
+msgstr ""
+
+#: ../options.php:356
+msgid "Left Section"
+msgstr ""
+
+#: ../options.php:374 ../options.php:400 ../options.php:426 ../options.php:492
+#: ../options.php:518 ../options.php:544 ../options.php:581 ../options.php:601
+#: ../options.php:621 ../options.php:641
+msgid "Link"
+msgstr ""
+
+#: ../options.php:375 ../options.php:401 ../options.php:427 ../options.php:493
+#: ../options.php:519 ../options.php:545
+msgid "Enter the link to product or service"
+msgstr ""
+
+#: ../options.php:382
+msgid "Center Section"
+msgstr ""
+
+#: ../options.php:408
+msgid "Right Section"
+msgstr ""
+
+#: ../options.php:434 ../options.php:552
+msgid "Quote Section"
+msgstr ""
+
+#: ../options.php:437 ../options.php:555
+msgid "Quote"
+msgstr ""
+
+#: ../options.php:438 ../options.php:556
+msgid "Enter the Quote Text"
+msgstr ""
+
+#: ../options.php:442 ../options.php:560
+msgid "Customer Name"
+msgstr ""
+
+#: ../options.php:443
+msgid "Enter the customer name"
+msgstr ""
+
+#: ../options.php:455 ../admin/options-framework.php:297
+msgid "Biz Two Settings"
+msgstr ""
+
+#: ../options.php:474
+msgid "Top Section"
+msgstr ""
+
+#: ../options.php:500
+msgid "Middle Section"
+msgstr ""
+
+#: ../options.php:526
+msgid "Bottom Section"
+msgstr ""
+
+#: ../options.php:561
+msgid "Enter the Customer Name"
+msgstr ""
+
+#: ../options.php:568
+msgid "Portfolio Item # 1"
+msgstr ""
+
+#: ../options.php:577 ../options.php:617 ../options.php:637
+msgid "Enter the project name"
+msgstr ""
+
+#: ../options.php:582 ../options.php:602 ../options.php:622 ../options.php:642
+msgid "Enter the link to project"
+msgstr ""
+
+#: ../options.php:588
+msgid "Portfolio Item # 2"
+msgstr ""
+
+#: ../options.php:597
+msgid "Enter the project name."
+msgstr ""
+
+#: ../options.php:608
+msgid "Portfolio Item # 3"
+msgstr ""
+
+#: ../options.php:628
+msgid "Portfolio Item # 4"
+msgstr ""
+
+#: ../options.php:653
+msgid "Standard Page Settings"
+msgstr ""
+
+#: ../options.php:656
+msgid "Show Comments?"
+msgstr ""
+
+#: ../options.php:657
+msgid "Select yes if you want to show comments"
+msgstr ""
+
+#: ../options.php:671
+msgid "Footer Settings"
+msgstr ""
+
+#: ../options.php:674
+msgid "Footer Layouts"
+msgstr ""
+
+#: ../options.php:677
+msgid "Select a footer layout"
+msgstr ""
+
+#: ../search.php:15
+msgid "Search Results for : "
+msgstr ""
+
+#: ../search.php:34
+msgid "Posted by :"
+msgstr ""
+
+#: ../search.php:34
+msgid " On :"
+msgstr ""
+
+#: ../searchform.php:1
+msgid "Enter search query here..."
+msgstr ""
+
+#: ../searchform.php:1
+msgid "Go"
+msgstr ""
+
+#: ../sidebar.php:14
+msgid "Categories"
+msgstr ""
+
+#: ../single.php:73
+msgid "Previous Image"
+msgstr ""
+
+#: ../single.php:83
+msgid "Next Image"
+msgstr ""
+
+#: ../single.php:101
+msgid "Previous Post"
+msgstr ""
+
+#: ../single.php:111
+msgid "Next Post"
+msgstr ""
+
+#: ../slider-one.php:25
+msgid "Responsive Business Theme"
+msgstr ""
+
+#: ../slider-one.php:34
+msgid ""
+"You can change this text in Slider One settings tab of theme options page. "
+"Write something awesome to make your website ridiculously fabulous."
+msgstr ""
+
+#: ../slider-one.php:44
+msgid "Continue Reading"
+msgstr ""
+
+#: ../admin/options-framework.php:169 ../admin/options-framework.php:455
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/options-framework.php:289
+msgid "General"
+msgstr ""
+
+#: ../admin/options-framework.php:289 ../admin/options-framework.php:291
+#: ../admin/options-framework.php:293 ../admin/options-framework.php:295
+#: ../admin/options-framework.php:299
+msgid "Settings"
+msgstr ""
+
+#: ../admin/options-framework.php:291
+msgid "Logo Section"
+msgstr ""
+
+#: ../admin/options-framework.php:293
+msgid "Header"
+msgstr ""
+
+#: ../admin/options-framework.php:295
+msgid "Layout"
+msgstr ""
+
+#: ../admin/options-framework.php:298
+msgid "Standard Blog Settings"
+msgstr ""
+
+#: ../admin/options-framework.php:299
+msgid "Footer"
+msgstr ""
+
+#: ../admin/options-framework.php:319
+msgid "Save Options"
+msgstr ""
+
+#: ../admin/options-framework.php:320
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../admin/options-framework.php:320
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../admin/options-framework.php:356
+msgid "Default options restored."
+msgstr ""
+
+#: ../admin/options-framework.php:397
+msgid "Options saved."
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""

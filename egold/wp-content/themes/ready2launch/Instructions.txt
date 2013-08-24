@@ -1,0 +1,16 @@
+---How to install and use Ready2Launch theme---
+
+1,
+Upload folder "ready2launch" (in same directory like this instructions) to your web (using FTP client) to folder: "-wordpress directory-/wp-content/themes/".
+
+2,
+Then head to your Wordpress administration and under Appearance select "Ready2Launch!" and activate it.
+
+3,
+After this, you should be able to access Ready2Launch! Options Page (in left sidebar under Appearance). There you can setup your theme, text, font colors and some other features.
+
+4,
+Need further help?
+You may contact me on jakub@jedenbod.cz | http://jakub.jedenbod.cz
+
+--- Theme Website: http://ready2launch.jedenbod.cz ---

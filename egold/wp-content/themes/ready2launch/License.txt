@@ -1,0 +1,1 @@
+Ready2Launch! theme is licensed under GPL (GPL.txt for more info). This include PHP, CSS and images.

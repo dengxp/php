@@ -1,0 +1,278 @@
+/* blackberry css */
+.blackberrycolor, .blackberry a, .blackberry h2 a:hover, .blackberry h3 a:hover{ 
+    color: #555; 
+}
+       
+.blackberry a:hover{ 
+    color: #111; 
+}
+ 
+.blackberry .entry a:visited{ 
+    color: #888; 
+}
+ 
+.blackberry #header { 
+    background-image: url('images/blackberry-header.jpg');
+}
+ 
+.blackberry #headertxt h1, .blackberry #headertxt h1 a, .blackberry #headertxt h2 {
+    color: #eee;
+}
+ 
+.blackberry #headertxt h1 a:hover {
+    color: #fff;
+}
+ 
+.blackberry #footer { 
+    background-image: url('images/blackberry-footer.jpg');
+    color: #777;
+}
+/* [end] blackberry css */
+
+/* blueberry css */
+.blueberrycolor, .blueberry a, .blueberry h2 a:hover, .blueberry h3 a:hover{ 
+    color: #03f; 
+}
+       
+.blueberry a:hover{ 
+    color: #036; 
+}
+ 
+.blueberry .entry a:visited{ 
+    color: #69f; 
+}
+ 
+.blueberry #header { 
+    background-image: url('images/blueberry-header.jpg');
+}
+ 
+.blueberry #headertxt h1, .blueberry #headertxt h1 a, .blueberry #headertxt h2 {
+    color: #eee;
+}
+ 
+.blueberry #headertxt h1 a:hover {
+    color: #fff;
+}
+ 
+.blueberry #footer { 
+    background-image: url('images/blueberry-footer.jpg');
+    color: #000;
+}
+/* [end] blueberry css */
+
+/* elderberry css */
+.elderberrycolor, .elderberry a, .elderberry h2 a:hover, .elderberry h3 a:hover{ 
+    color: #339; 
+}
+       
+.elderberry a:hover{ 
+    color: #006; 
+}
+ 
+.elderberry .entry a:visited{ 
+    color: #06c; 
+}
+ 
+.elderberry #header { 
+    background-image: url('images/elderberry-header.jpg');
+}
+ 
+.elderberry #headertxt h1, .elderberry #headertxt h1 a, .elderberry #headertxt h2 {
+    color: #ddd;
+}
+ 
+.elderberry #headertxt h1 a:hover {
+    color: #fff;
+}
+ 
+.elderberry #footer { 
+    background-image: url('images/elderberry-footer.jpg');
+    color: #667;
+}
+/* [end] elderberry css */
+
+/* grape css */
+.grapecolor, .grape a, .grape h2 a:hover, .grape h3 a:hover{ 
+    color: #90c; 
+}
+       
+.grape a:hover{ 
+    color: #606; 
+}
+ 
+.grape .entry p a:visited{ 
+    color: #969; 
+}
+ 
+.grape #header { 
+    background-image: url('images/grape-header.jpg');
+}
+ 
+.grape #headertxt h1, .grape #headertxt h1 a, .grape #headertxt h2 {
+    color: #eee;
+}
+ 
+.grape #headertxt h1 a:hover {
+    color: #fff;
+}
+ 
+.grape #footer { 
+    background-image: url('images/grape-footer.jpg');
+    color: #000;
+}
+/* [end] grape css */
+
+/* lime css */
+.limecolor, .lime a, .lime h2 a:hover, .lime h3 a:hover{ 
+    color: #0c0; 
+}
+       
+.lime a:hover{ 
+    color: #080; 
+}
+ 
+.lime .entry a:visited{ 
+    color: #3f3; 
+}
+ 
+.lime #header { 
+    background-image: url('images/lime-header.jpg');
+}
+ 
+.lime #headertxt h1, .lime #headertxt h1 a, .lime #headertxt h2 {
+    color: #eee;
+}
+ 
+.lime #headertxt h1 a:hover {
+    color: #fff;
+}
+ 
+.lime #footer { 
+    background-image: url('images/lime-footer.jpg');
+    color: #000;
+}
+/* [end] lime css */
+
+/* lemon css */
+.lemoncolor, .lemon a, .lemon h2 a:hover, .lemon h3 a:hover{ 
+    color: #fc0; 
+}
+       
+.lemon a:hover{ 
+    color: #cf0; 
+}
+ 
+.lemon .entry a:visited{ 
+    color: #ff0; 
+}
+ 
+.lemon #header { 
+    background-image: url('images/lemon-header.jpg');
+}
+ 
+.lemon #headertxt h1, .lemon #headertxt h1 a, .lemon #headertxt h2 {
+    color: #fff;
+}
+ 
+.lemon #headertxt h1 a:hover {
+    color: #eee;
+}
+ 
+.lemon #footer { 
+    background-image: url('images/lemon-footer.jpg');
+    color: #333;
+}
+/* [end] lemon css */
+
+/* orange css */
+.orangecolor, .orange a, .orange h2 a:hover, .orange h3 a:hover{ 
+    color: #f60; 
+}
+       
+.orange a:hover{ 
+    color: #a30; 
+}
+ 
+.orange .entry a:visited{ 
+    color: #f93; 
+}
+ 
+.orange #header { 
+    background-image: url('images/orange-header.jpg');
+}
+ 
+.orange #headertxt h1, .orange #headertxt h1 a, .orange #headertxt h2 {
+    color: #eee;
+}
+ 
+.orange #headertxt h1 a:hover {
+    color: #fff;
+}
+ 
+.orange #footer { 
+    background-image: url('images/orange-footer.jpg');
+    color: #000;
+}
+/* [end] orange css */
+
+/* raspberry css */
+.raspberrycolor, .raspberry a, .raspberry h2 a:hover, .raspberry h3 a:hover{ 
+    color: #c03; 
+}
+ 
+.raspberry a:hover{ 
+    color: #f03; 
+}
+ 
+.raspberry .entry a:visited{ 
+    color: #936; 
+}
+ 
+.raspberry #header { 
+    background-image: url('images/raspberry-header.jpg');
+}
+ 
+.raspberry #headertxt h1, .raspberry #headertxt h1 a, .raspberry #headertxt h2 {
+    color: #eee;
+}
+ 
+.raspberry #headertxt h1 a:hover {
+    color: #fff;
+}
+ 
+.raspberry #footer { 
+    background-image: url('images/raspberry-footer.jpg');
+    color: #000;
+}
+/* [end] raspberry css */
+
+/* strawberry css */
+.strawberrycolor, .strawberry a, .strawberry h2 a:hover, .strawberry h3 a:hover{ 
+    color: #f00; 
+}
+       
+.strawberry a:hover{ 
+    color: #b00; 
+}
+ 
+.strawberry .entry a:visited{ 
+    color: #f66; 
+}
+ 
+.strawberry #header { 
+    background-image: url('images/strawberry-header.jpg');
+}
+ 
+.strawberry #headertxt h1, .strawberry #headertxt h1 a, .strawberry #headertxt h2 {
+    color: #eee;
+}
+ 
+.strawberry #headertxt h1 a:hover {
+    color: #fff;
+}
+ 
+.strawberry #footer { 
+    background-image: url('images/strawberry-footer.jpg');
+    color: #000;
+}
+/* [end] strawberry css */

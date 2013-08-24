@@ -1,0 +1,381 @@
+/* 
+	Theme Name: YB-Auto
+	Description:
+	Author: Aivar Azizov
+	Author URI: http://blog.seonews2.com/
+	Version: 1.1
+	Tags:auto,two columns,fixed width,green,orange
+
+*/
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.alignright {
+    padding: 4px;
+    margin: 0 0 2px 7px;
+    display: inline;
+}
+
+img.alignleft {
+    padding: 4px;
+    margin: 0 7px 2px 0;
+    display: inline;
+}
+
+.alignright {
+    float: right;
+}
+
+.alignleft {
+    float: left;
+}
+
+*/
+body {
+	text-align: center;
+	font-size: 80%;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	background: #e6e6e6;
+	}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	}
+#page {
+	width: 763px;
+	margin: 0 auto;
+	text-align: left;
+	background: #FFF;
+	border: 8px solid #FFF;
+	position: relative;
+	bottom: 8px;
+	}
+#header {
+	background: url() top right no-repeat;
+	height: 157px;
+	width: 763px;
+	position: relative;
+	}
+#headerimg {
+	background: url(top.jpg) no-repeat;
+	height: 157px;
+	width: 763px;
+	}
+#header h1 {
+	margin: 0;
+	padding: 50px 0 0 0;
+  text-align: center;
+	font: 32px arial;
+	letter-spacing:-0.02em;
+	}
+#header h1 a:link, #header h1 a:visited {
+	text-decoration:none;
+	color: #3a5228;
+	}
+#header h2 {
+	margin: 0;
+	padding: 5px 0 0 0;
+  text-align: center;
+	font: 18px arial;
+	letter-spacing:-0.02em;
+	}
+#header h2 {
+	color: #383838;
+	}
+
+
+#quick {
+	background: #ea3d00;
+	margin-top: 1px;
+	height: 24px;
+	width: 763px;
+	position: relative;
+	line-height: 24px;
+	}
+#quick form {
+	height: 22px;
+	line-height: normal;
+	float: left;
+	padding: 0 6px;
+	background: #ea3d00;
+	}
+form div {
+	padding-top: 2px;
+	}
+form, form input {
+	vertical-align: middle;
+	}
+form .i {
+	border-width: 0;
+	}
+form .b {
+
+	border-width: 0;
+	background: #fd6b39;
+	}
+#right {
+	float: right;
+	width: 530px;
+	}
+#right a:link, #right a:visited {
+	color: #526f3c;
+	}
+.sep {
+        font-size: 1px;
+	height: 1px;
+	line-height: 1px;
+	background: url(dotsep.gif) top left repeat-x;
+	overflow: hidden;
+	}
+#right h2 {
+	color: #526f3c;
+	font: 200% Arial, Helvetica, sans-serif;
+	margin: 0.5em 0 0.3em;
+	padding: 0;
+	}
+.p {
+	background: url(panel.gif) top left no-repeat;
+	padding: 1em;
+	}
+#left {
+	float: left;	
+        width: 188px;
+	}
+#left h2 {
+	color: #ea3d00;
+	margin: 0;
+	padding: 0.1em 0 0.3em;
+	font: 130% Arial, Helvetica, sans-serif;
+	}
+.p ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	line-height: 20px;
+	font: 95%;
+	}
+.p li {
+	border-bottom: 1px solid #ccc;
+	color: #526f3c;
+	}
+.p li ul li {
+	padding-left: 2px;
+	border-bottom: none;
+	}
+.p li a {
+
+	color: #526f3c;
+	text-decoration: none;
+	}
+#right .post h2 {
+	font: bold 130% Arial, Helvetica, sans-serif;
+	color: #526f3c;
+	margin: 0;
+	padding: 0.5em 5px;
+	}
+.ct {
+	font-size: 96%;
+	color: #383838;
+	}
+.whatToDo {
+	width: 525px;
+	height: 20px;
+	line-height: 20px;
+	margin: 1px 0px;
+	}
+.whatToDo a:link, .whatToDo a:visited {
+	text-decoration: none;
+	color: #526f3c;
+	font-weight: bold;
+	}
+#right .whatToDo a.wPC:link, #right .whatToDo a.wPC:visited {
+	float: right;
+	padding: 0 1.5em;
+	display: block;
+	height: 20px;
+	line-height: 20px;
+	background: #526f3c;
+	color: #fff;
+	text-decoration: none;
+	}
+.wPC span {
+	background: url(comment.gif) center left no-repeat;
+	padding-left: 16px;
+	}
+.wPC:hover {
+	background: #444;
+	}
+#right dl, #right ul, #right ol, #right h1, #right h2, #right h3, #right h4, #right h5, #right h6, #right pre, #right form, #right p, #right blockquote {
+	margin: 0;
+	padding: 0.5em 5px;
+	}
+.wCM {
+	background: url(readcomments.gif) center left no-repeat;
+	padding-left: 15px;
+	display: block;
+	float: left;
+	margin-right: 1em;
+	}
+.wRM {
+	background: url(readmore.gif) center left no-repeat;
+	padding-left: 15px;
+	display: block;
+	float: left;
+	}
+#commentArea {
+	position: relative;
+	background: #f3f3f3;
+	margin-top: 10px;
+	margin-left: -10px;
+	padding-left: 10px;
+	}
+#commentArea h2 {
+	font: bold 125% Tahoma;
+	}
+#commentArea strong {
+	position: absolute;
+	}
+#commentArea span {
+	position: relative;
+	display: block;
+	background: url(comment-title.gif) top center no-repeat;
+	height: 54px;
+	}
+#commentBottom {
+	background: url(comment-bottom.gif) top center no-repeat;
+	height: 24px;
+	}
+#commentArea form {
+	margin: 0;
+	padding: 0 0;
+	}
+#commentArea form p {
+	margin: 0;
+	padding: 0.5em 0;
+	}
+#commentArea form .subm {
+	padding-left: 113px;
+	}
+.in {
+	background: #fff;
+	border: 1px solid #ccc;
+	}
+.push {
+	border-width: 0;
+	color: #fff;
+	background: #526f3c;
+	}
+#commentArea form label {
+	float: left;
+	clear: left;
+	text-align: right;
+	width: 105px;
+	margin-right: 8px;
+	line-height: 1.4em;
+	}
+#comments {
+	margin-left: 2em;
+	}
+#right #comments h2 {
+	font: bold 125% Tahoma;
+	color: #555;
+	margin: 0;
+	padding: 0.5em 0 0.2em;
+	}
+.xmtv {
+	padding-bottom: 0.3em;
+	}
+.comment {
+	width: 320px;	
+	font-size: 85%;
+	margin: 1em 0 0;
+	padding-bottom: 1em;
+	border-bottom: #ccc 0.3em solid;
+	}	
+#footer {
+	background: #8eb870 url(bb.gif) top left repeat-x;
+	padding-top: 40px;
+	clear: both;
+	width: 763px;
+	height: 80px;
+//	height: 90px;
+	position: relative;
+	}
+*html #footer {height: 120px;}	
+.f1 {
+	position: absolute;
+	top: 34px;
+	text-align: middle;
+	padding: 0 10px 5px;
+	}
+.f1, .f1 a:link, .f1 a:visited {
+	color: #fff;
+	text-align: middle;	
+	text-decoration: none;
+	font-family: Arial, sans-serif;
+	}
+.f2 {
+	position: absolute;
+	top: 70px;
+	right: 10px;
+	font-size: 85%;
+	text-align: right
+	}
+.f2, .f2 a:link, .f2 a:visited {
+	color: #526f3c;
+	text-decoration: none;
+	}
+.f2 img {
+	vertical-align: middle;
+	}
+	
+*html .f2 {
+	position: absolute;
+	top: 60px;
+	right: 10px;
+	font-size: 80%;
+	text-align: right
+	}
+	
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}	
+
+
+.wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #f3f3f3;
+	padding-top: 4px;
+	margin: 10px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+.wp-caption-dd {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0 4px 5px;
+	margin: 0;
+}
