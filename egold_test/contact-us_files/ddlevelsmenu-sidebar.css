@@ -1,0 +1,54 @@
+/*markermenu 产品分类模块*/
+.markermenu p{
+background:url(../images/ico.gif) 0px -650px;
+border-bottom:5px #F9C04C solid;
+color:#FFFFFF;
+font-size:14px;
+font-weight:bold;
+height:30px;
+line-height:30px;
+text-indent:10px;
+}
+.markermenu{
+width: 202px;
+clear: left;
+position: relative;
+margin-bottom:10px;
+}
+.markermenu ul{
+margin-top:10px;
+margin-left:10px;
+}
+.markermenu ul li a{
+background: center;
+font-size: 12px;
+color:#000;
+font-weight:bold;
+display: block;
+width:170px;
+padding:4px 5px 4px 13px;
+line-height:16px;
+text-decoration: none;
+border-bottom: 1px solid #f1f3f2;
+background:url(../images/ico.gif) 4px -493px no-repeat;
+}
+* html .markermenu ul li a{ /*IE6 hack*/
+width:170px;
+}
+.markermenu ul li a:link, .markermenu ul li a:visited{
+font-size:12px;
+color:#333;
+background:url(../images/ico.gif) 0px -493px no-repeat;
+}
+.markermenu ul li a:hover, .markermenu ul li a.selected{
+background:url(../images/ico.gif) 0px -143px no-repeat;
+color:#CC0000;
+}
+
+.blackwhite li a{
+background: white;
+}
+.blackwhite li a:hover{
+background: black;
+color: white;
+}

@@ -24,7 +24,8 @@ define('DB_USER', 'egold');
 define('DB_PASSWORD', '78kxtw');
 
 /** MySQL 主机 */
-define('DB_HOST', 'localhost');
+#define('DB_HOST', 'localhost');
+define('DB_HOST', '42.121.13.207');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8');

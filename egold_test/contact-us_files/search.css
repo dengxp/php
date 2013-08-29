@@ -1,0 +1,51 @@
+div#autocompletepanel {
+	position: absolute;
+	width: 164px;
+
+}
+
+div#autocompletepanel2 {position: absolute; width: 136px; margin:0 0 0 5px;}
+*:first-child+html div#autocompletepanel2 {position: absolute; width: 136px; margin:0 0 0 -165px;}
+* html div#autocompletepanel2  {position: absolute; width:138px; margin:0 165px 0 -163px; voice-family:"\"}\""; voice-family:inherit; width: 136px; margin:0 165px 0 -165px;}
+
+div.suggestList {
+	border: 1px solid #DDDDDD;
+	padding: 2px;
+	background: rgb(255, 255, 255) none repeat scroll 0%;
+	background: #FFFFFF;
+	z-index: 2000;
+}
+
+div.suggestList li {
+	padding: 0; margin: 0;
+	text-align: left;
+	cursor: pointer;
+	width:100%;
+}
+
+div.suggestList li:hover, li.hover {
+	background-color: #8a8a8a;
+	color: #FFFFFF;
+}
+
+div.suggestList span { 
+	font-family: arial; 
+	font-size: 11px;
+}
+
+div.suggestList span.keyin { 
+	color: #FF0000;
+}
+
+div.suggestList li:hover span.keyin { 
+	color: #FFFFFF;
+}
+
+div.suggestList span.suggword { 
+	/*color: #666666;*/
+}
+
+
+div.suggestList UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
