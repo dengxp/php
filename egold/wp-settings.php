@@ -15,6 +15,10 @@
  *
  * @since 1.0.0
  */
+
+// add by dens
+define( 'WP_LOG_PATH', ABSPATH . '/logs');
+
 define( 'WPINC', 'wp-includes' );
 
 // Include files required for initialization.

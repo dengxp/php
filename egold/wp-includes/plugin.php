@@ -362,19 +362,31 @@ function do_action($tag, $arg = '') {
 
 	if ( ! isset($wp_actions) )
 		$wp_actions = array();
+	
+	// wp_log($wp_actions);
 
+	// wp_action[$tag]记录每个action调用的次数
 	if ( ! isset($wp_actions[$tag]) )
 		$wp_actions[$tag] = 1;
 	else
 		++$wp_actions[$tag];
 
+	// wp_log($wp_actions);
+	
+	if ($tag == 'setup_theme')
+	{
+		wp_log($wp_filter);
+	}
+	
 	// Do 'all' actions first
 	if ( isset($wp_filter['all']) ) {
-		$wp_current_filter[] = $tag;
+		$wp_current_filter[] = $tag;	//把action加入到wp_current_filter[]数组
 		$all_args = func_get_args();
+		
 		_wp_call_all_hook($all_args);
 	}
 
+	
 	if ( !isset($wp_filter[$tag]) ) {
 		if ( isset($wp_filter['all']) )
 			array_pop($wp_current_filter);

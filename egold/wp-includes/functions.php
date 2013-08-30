@@ -4041,3 +4041,15 @@ function _canonical_charset( $charset ) {
 
 	return $charset;
 }
+
+// add by dens
+function wp_log($content = "")
+{
+	if (is_array($content) || is_object($content))
+	{
+		$content = print_r($content, TRUE);
+	}
+	$log = $content . "\r\n";
+	$log_file = WP_LOG_PATH . '/itdo_' . date('Y-m-d') . '.log';
+	file_put_contents($log_file, $log, FILE_APPEND);
+}
