@@ -371,7 +371,7 @@ function do_action($tag, $arg = '') {
 	else
 		++$wp_actions[$tag];
 
-	// wp_log($wp_actions);
+	wp_log($wp_actions);
 	
 	if ($tag == 'setup_theme')
 	{
