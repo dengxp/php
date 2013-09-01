@@ -550,6 +550,10 @@ function locale_stylesheet() {
  * @since 2.6.0
  */
 function preview_theme() {
+	
+	wp_log("_GET is: ");
+	wp_log($_GET);
+	
 	if ( ! (isset($_GET['template']) && isset($_GET['preview'])) )
 		return;
 

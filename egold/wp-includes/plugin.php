@@ -370,15 +370,10 @@ function do_action($tag, $arg = '') {
 		$wp_actions[$tag] = 1;
 	else
 		++$wp_actions[$tag];
-
-	wp_log($wp_actions);
-	
-	if ($tag == 'setup_theme')
-	{
-		wp_log($wp_filter);
-	}
 	
 	// Do 'all' actions first
+	// $wp_filer['all']: 所有动作都要执行的钩子
+	
 	if ( isset($wp_filter['all']) ) {
 		$wp_current_filter[] = $tag;	//把action加入到wp_current_filter[]数组
 		$all_args = func_get_args();
@@ -395,12 +390,13 @@ function do_action($tag, $arg = '') {
 
 	if ( !isset($wp_filter['all']) )
 		$wp_current_filter[] = $tag;
-
+	
 	$args = array();
 	if ( is_array($arg) && 1 == count($arg) && isset($arg[0]) && is_object($arg[0]) ) // array(&$this)
 		$args[] =& $arg[0];
 	else
 		$args[] = $arg;
+	
 	for ( $a = 2; $a < func_num_args(); $a++ )
 		$args[] = func_get_arg($a);
 

@@ -22,6 +22,7 @@
  * @param string $name The name of the specialised header.
  */
 function get_header( $name = null ) {
+
 	do_action( 'get_header', $name );
 
 	$templates = array();
