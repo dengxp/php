@@ -22,5 +22,43 @@ function do_action($tag, $arg = '')
 		_wp_call_all_hook(all_args);
 	}
 		
+function _wp_call_all_hook(all_args)
+{
+	global $wp_filter;
 	
+	reset($wp_filter['all'];
+	do 
+	{
+		foreach ((array) current(
+	} while (next($wp_filter['all'] !== false);
+	
+}
+
+
+function get_header( $name = null)
+{
+	do_action('get_header', $name);
+	
+	$templates = array();
+	
+}
+
+function locate_template($template_names, $load = false, $require_once = true)
+{
+	$located = '';
+	
+	foreach((array) $template_names as $template)
+	{
+		if(!$template_name)
+			continue;
+		if(file_exists(STYLESHEETPATH . '/' . $template_name))
+		{
+			$located = STYLESHEETPATH . '/' . $template_name;
+			break;
+		} else if (file_exists(TEMPLATEPATH . '/' . $template_name))
+		{
+			$located = TEMPLATEPATH . '/' . $template_name;
+			break;
+		}
+	}
 }

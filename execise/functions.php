@@ -42,3 +42,28 @@ function get_header( $name = null)
 	$templates = array();
 	
 }
+
+function locate_template($template_names, $load = false, $require_once = true)
+{
+	$located = '';
+	
+	foreach((array) $template_names as $template)
+	{
+		if(!$template_name)
+			continue;
+		if(file_exists(STYLESHEETPATH . '/' . $template_name))
+		{
+			$located = STYLESHEETPATH . '/' . $template_name;
+			break;
+		} else if (file_exists(TEMPLATEPATH . '/' . $template_name))
+		{
+			$located = TEMPLATEPATH . '/' . $template_name;
+			break;
+		}
+	}
+	
+	if ($load && '' != $located)
+		load_template($located, $require_once);
+		
+	return $located;	
+}
