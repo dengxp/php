@@ -1,0 +1,7 @@
+127.0.0.1 - - [02/Sep/2013:21:26:03 +0800] 5000 + "GET / HTTP/1.1" 200 28 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36"
+127.0.0.1 - - [02/Sep/2013:21:26:03 +0800] 1000 + "GET /favicon.ico HTTP/1.1" 404 209 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36"
+127.0.0.1 - - [02/Sep/2013:21:28:12 +0800] 5000 + "GET / HTTP/1.1" 200 28 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36"
+127.0.0.1 - - [02/Sep/2013:21:28:12 +0800] 0 + "GET /favicon.ico HTTP/1.1" 404 209 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36"
+127.0.0.1 - - [02/Sep/2013:21:28:14 +0800] 1000 + "GET / HTTP/1.1" 200 28 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36"
+127.0.0.1 - - [02/Sep/2013:21:29:07 +0800] 35002 + "GET / HTTP/1.1" 200 2059 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36"
+127.0.0.1 - - [02/Sep/2013:22:17:41 +0800] 18001 + "GET / HTTP/1.1" 200 2803 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36"

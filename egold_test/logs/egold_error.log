@@ -1,0 +1,14 @@
+[Mon Sep 02 21:29:07.802748 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2672] PHP Warning:  require(./wp-blog-header.php): failed to open stream: No such file or directory in D:\\minnote\\egold_test\\index.php on line 6
+[Mon Sep 02 21:29:07.803748 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2672] PHP Stack trace:
+[Mon Sep 02 21:29:07.803748 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2672] PHP   1. {main}() D:\\minnote\\egold_test\\index.php:0
+[Mon Sep 02 21:29:07.803748 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2672] PHP Fatal error:  require(): Failed opening required './wp-blog-header.php' (include_path='.;C:\\php\\pear') in D:\\minnote\\egold_test\\index.php on line 6
+[Mon Sep 02 21:29:07.803748 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2672] PHP Stack trace:
+[Mon Sep 02 21:29:07.803748 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2672] PHP   1. {main}() D:\\minnote\\egold_test\\index.php:0
+[Mon Sep 02 22:17:41.283389 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2914] PHP Warning:  require_once(D:\\minnote\\egold_test/wp-load.php): failed to open stream: No such file or directory in D:\\minnote\\egold_test\\wp-blog-header.php on line 7
+[Mon Sep 02 22:17:41.284389 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2914] PHP Stack trace:
+[Mon Sep 02 22:17:41.284389 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2914] PHP   1. {main}() D:\\minnote\\egold_test\\index.php:0
+[Mon Sep 02 22:17:41.284389 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2914] PHP   2. require() D:\\minnote\\egold_test\\index.php:6
+[Mon Sep 02 22:17:41.284389 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2914] PHP Fatal error:  require_once(): Failed opening required 'D:\\minnote\\egold_test/wp-load.php' (include_path='.;C:\\php\\pear') in D:\\minnote\\egold_test\\wp-blog-header.php on line 7
+[Mon Sep 02 22:17:41.284389 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2914] PHP Stack trace:
+[Mon Sep 02 22:17:41.284389 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2914] PHP   1. {main}() D:\\minnote\\egold_test\\index.php:0
+[Mon Sep 02 22:17:41.284389 2013] [:error] [pid 5200:tid 1520] [client 127.0.0.1:2914] PHP   2. require() D:\\minnote\\egold_test\\index.php:6
