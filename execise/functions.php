@@ -67,3 +67,14 @@ function locate_template($template_names, $load = false, $require_once = true)
 		
 	return $located;	
 }
+
+function tc_display_head()
+{
+	bloginfo('charset');
+	wp_title('|', true, 'right');
+	
+	if(is_singular() && get_option('ghread_comments'))
+	{
+		wp_enqueue_script('comment-reply');
+	}
+}
