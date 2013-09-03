@@ -1,0 +1,6015 @@
+_GET is: 
+Array
+(
+)
+
+wp_filter is : 
+Array
+(
+    [pre_term_name] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_text_field] => Array
+                        (
+                            [function] => sanitize_text_field
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_comment_author_name] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_text_field] => Array
+                        (
+                            [function] => sanitize_text_field
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_link_name] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_text_field] => Array
+                        (
+                            [function] => sanitize_text_field
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_link_target] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_text_field] => Array
+                        (
+                            [function] => sanitize_text_field
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_link_rel] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_text_field] => Array
+                        (
+                            [function] => sanitize_text_field
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_user_display_name] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_text_field] => Array
+                        (
+                            [function] => sanitize_text_field
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_user_first_name] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_text_field] => Array
+                        (
+                            [function] => sanitize_text_field
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_user_last_name] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_text_field] => Array
+                        (
+                            [function] => sanitize_text_field
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_user_nickname] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_text_field] => Array
+                        (
+                            [function] => sanitize_text_field
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [term_name] => Array
+        (
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [esc_html] => Array
+                        (
+                            [function] => esc_html
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_author_name] => Array
+        (
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [link_name] => Array
+        (
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [esc_html] => Array
+                        (
+                            [function] => esc_html
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [link_target] => Array
+        (
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [link_rel] => Array
+        (
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [user_display_name] => Array
+        (
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [user_first_name] => Array
+        (
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [user_last_name] => Array
+        (
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [user_nickname] => Array
+        (
+            [30] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_term_description] => Array
+        (
+            [10] => Array
+                (
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_link_description] => Array
+        (
+            [10] => Array
+                (
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_link_notes] => Array
+        (
+            [10] => Array
+                (
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_user_description] => Array
+        (
+            [10] => Array
+                (
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_comment_author_email] => Array
+        (
+            [10] => Array
+                (
+                    [trim] => Array
+                        (
+                            [function] => trim
+                            [accepted_args] => 1
+                        )
+
+                    [sanitize_email] => Array
+                        (
+                            [function] => sanitize_email
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_user_email] => Array
+        (
+            [10] => Array
+                (
+                    [trim] => Array
+                        (
+                            [function] => trim
+                            [accepted_args] => 1
+                        )
+
+                    [sanitize_email] => Array
+                        (
+                            [function] => sanitize_email
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_author_email] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_email] => Array
+                        (
+                            [function] => sanitize_email
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [user_email] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_email] => Array
+                        (
+                            [function] => sanitize_email
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_comment_author_url] => Array
+        (
+            [10] => Array
+                (
+                    [wp_strip_all_tags] => Array
+                        (
+                            [function] => wp_strip_all_tags
+                            [accepted_args] => 1
+                        )
+
+                    [esc_url_raw] => Array
+                        (
+                            [function] => esc_url_raw
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_user_url] => Array
+        (
+            [10] => Array
+                (
+                    [wp_strip_all_tags] => Array
+                        (
+                            [function] => wp_strip_all_tags
+                            [accepted_args] => 1
+                        )
+
+                    [esc_url_raw] => Array
+                        (
+                            [function] => esc_url_raw
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_link_url] => Array
+        (
+            [10] => Array
+                (
+                    [wp_strip_all_tags] => Array
+                        (
+                            [function] => wp_strip_all_tags
+                            [accepted_args] => 1
+                        )
+
+                    [esc_url_raw] => Array
+                        (
+                            [function] => esc_url_raw
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_link_image] => Array
+        (
+            [10] => Array
+                (
+                    [wp_strip_all_tags] => Array
+                        (
+                            [function] => wp_strip_all_tags
+                            [accepted_args] => 1
+                        )
+
+                    [esc_url_raw] => Array
+                        (
+                            [function] => esc_url_raw
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_link_rss] => Array
+        (
+            [10] => Array
+                (
+                    [wp_strip_all_tags] => Array
+                        (
+                            [function] => wp_strip_all_tags
+                            [accepted_args] => 1
+                        )
+
+                    [esc_url_raw] => Array
+                        (
+                            [function] => esc_url_raw
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_post_guid] => Array
+        (
+            [10] => Array
+                (
+                    [wp_strip_all_tags] => Array
+                        (
+                            [function] => wp_strip_all_tags
+                            [accepted_args] => 1
+                        )
+
+                    [esc_url_raw] => Array
+                        (
+                            [function] => esc_url_raw
+                            [accepted_args] => 1
+                        )
+
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [user_url] => Array
+        (
+            [10] => Array
+                (
+                    [esc_url] => Array
+                        (
+                            [function] => esc_url
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [link_url] => Array
+        (
+            [10] => Array
+                (
+                    [esc_url] => Array
+                        (
+                            [function] => esc_url
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [link_image] => Array
+        (
+            [10] => Array
+                (
+                    [esc_url] => Array
+                        (
+                            [function] => esc_url
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [link_rss] => Array
+        (
+            [10] => Array
+                (
+                    [esc_url] => Array
+                        (
+                            [function] => esc_url
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_url] => Array
+        (
+            [10] => Array
+                (
+                    [esc_url] => Array
+                        (
+                            [function] => esc_url
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [post_guid] => Array
+        (
+            [10] => Array
+                (
+                    [esc_url] => Array
+                        (
+                            [function] => esc_url
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_term_slug] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_title] => Array
+                        (
+                            [function] => sanitize_title
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_post_type] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_key] => Array
+                        (
+                            [function] => sanitize_key
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_post_status] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_key] => Array
+                        (
+                            [function] => sanitize_key
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_post_comment_status] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_key] => Array
+                        (
+                            [function] => sanitize_key
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_post_ping_status] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_key] => Array
+                        (
+                            [function] => sanitize_key
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_post_mime_type] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_mime_type] => Array
+                        (
+                            [function] => sanitize_mime_type
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [post_mime_type] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_mime_type] => Array
+                        (
+                            [function] => sanitize_mime_type
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [content_save_pre] => Array
+        (
+            [50] => Array
+                (
+                    [balanceTags] => Array
+                        (
+                            [function] => balanceTags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [wp_filter_post_kses] => Array
+                        (
+                            [function] => wp_filter_post_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [excerpt_save_pre] => Array
+        (
+            [50] => Array
+                (
+                    [balanceTags] => Array
+                        (
+                            [function] => balanceTags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [wp_filter_post_kses] => Array
+                        (
+                            [function] => wp_filter_post_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_save_pre] => Array
+        (
+            [50] => Array
+                (
+                    [balanceTags] => Array
+                        (
+                            [function] => balanceTags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_comment_content] => Array
+        (
+            [50] => Array
+                (
+                    [balanceTags] => Array
+                        (
+                            [function] => balanceTags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [wp_rel_nofollow] => Array
+                        (
+                            [function] => wp_rel_nofollow
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_author] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [esc_html] => Array
+                        (
+                            [function] => esc_html
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [link_description] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [esc_html] => Array
+                        (
+                            [function] => esc_html
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [link_notes] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [esc_html] => Array
+                        (
+                            [function] => esc_html
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [bloginfo] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [esc_html] => Array
+                        (
+                            [function] => esc_html
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_title] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [esc_html] => Array
+                        (
+                            [function] => esc_html
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47a3800000000eaed931atc_wp_title] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_wp_title
+                                )
+
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [widget_title] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [esc_html] => Array
+                        (
+                            [function] => esc_html
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [the_content] => Array
+        (
+            [11] => Array
+                (
+                    [capital_P_dangit] => Array
+                        (
+                            [function] => capital_P_dangit
+                            [accepted_args] => 1
+                        )
+
+                    [do_shortcode] => Array
+                        (
+                            [function] => do_shortcode
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_smilies] => Array
+                        (
+                            [function] => convert_smilies
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [wpautop] => Array
+                        (
+                            [function] => wpautop
+                            [accepted_args] => 1
+                        )
+
+                    [shortcode_unautop] => Array
+                        (
+                            [function] => shortcode_unautop
+                            [accepted_args] => 1
+                        )
+
+                    [prepend_attachment] => Array
+                        (
+                            [function] => prepend_attachment
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47a3800000000eaed931atc_fancybox_content_filter] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_fancybox_content_filter
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [000000006db47dd200000000eaed931arun_shortcode] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Embed Object
+                                        (
+                                            [handlers] => Array
+                                                (
+                                                    [10] => Array
+                                                        (
+                                                            [googlevideo] => Array
+                                                                (
+                                                                    [regex] => #http://video\.google\.([A-Za-z.]{2,5})/videoplay\?docid=([\d-]+)(.*?)#i
+                                                                    [callback] => wp_embed_handler_googlevideo
+                                                                )
+
+                                                            [tudou] => Array
+                                                                (
+                                                                    [regex] => #https?://(?:www\.)?tudou\.com/(?:programs/view|listplay/(?<list_id>[a-z0-9_=\-]+))/(?<video_id>[a-z0-9_=\-]+)#i
+                                                                    [callback] => wp_embed_handler_tudou
+                                                                )
+
+                                                            [56com] => Array
+                                                                (
+                                                                    [regex] => #https?://(?:www\.)?56\.com/[a-z0-9]+/(?:play_album\-aid\-[0-9]+_vid\-(?<video_id1>[a-z0-9_=\-]+)|v_(?<video_id2>[a-z0-9_=\-]+))#i
+                                                                    [callback] => wp_embed_handler_56com
+                                                                )
+
+                                                            [youku] => Array
+                                                                (
+                                                                    [regex] => #https?://v\.youku\.com/v_show/id_(?<video_id>[a-z0-9_=\-]+)#i
+                                                                    [callback] => wp_embed_handler_youku
+                                                                )
+
+                                                        )
+
+                                                    [9999] => Array
+                                                        (
+                                                            [audio] => Array
+                                                                (
+                                                                    [regex] => #^https?://.+?\.(mp3|ogg|wma|m4a|wav)$#i
+                                                                    [callback] => wp_embed_handler_audio
+                                                                )
+
+                                                            [video] => Array
+                                                                (
+                                                                    [regex] => #^https?://.+?\.(mp4|m4v|webm|ogv|wmv|flv)$#i
+                                                                    [callback] => wp_embed_handler_video
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [post_ID] => 
+                                            [usecache] => 1
+                                            [linkifunknown] => 1
+                                        )
+
+                                    [1] => run_shortcode
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47dd200000000eaed931aautoembed] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Embed Object
+                                        (
+                                            [handlers] => Array
+                                                (
+                                                    [10] => Array
+                                                        (
+                                                            [googlevideo] => Array
+                                                                (
+                                                                    [regex] => #http://video\.google\.([A-Za-z.]{2,5})/videoplay\?docid=([\d-]+)(.*?)#i
+                                                                    [callback] => wp_embed_handler_googlevideo
+                                                                )
+
+                                                            [tudou] => Array
+                                                                (
+                                                                    [regex] => #https?://(?:www\.)?tudou\.com/(?:programs/view|listplay/(?<list_id>[a-z0-9_=\-]+))/(?<video_id>[a-z0-9_=\-]+)#i
+                                                                    [callback] => wp_embed_handler_tudou
+                                                                )
+
+                                                            [56com] => Array
+                                                                (
+                                                                    [regex] => #https?://(?:www\.)?56\.com/[a-z0-9]+/(?:play_album\-aid\-[0-9]+_vid\-(?<video_id1>[a-z0-9_=\-]+)|v_(?<video_id2>[a-z0-9_=\-]+))#i
+                                                                    [callback] => wp_embed_handler_56com
+                                                                )
+
+                                                            [youku] => Array
+                                                                (
+                                                                    [regex] => #https?://v\.youku\.com/v_show/id_(?<video_id>[a-z0-9_=\-]+)#i
+                                                                    [callback] => wp_embed_handler_youku
+                                                                )
+
+                                                        )
+
+                                                    [9999] => Array
+                                                        (
+                                                            [audio] => Array
+                                                                (
+                                                                    [regex] => #^https?://.+?\.(mp3|ogg|wma|m4a|wav)$#i
+                                                                    [callback] => wp_embed_handler_audio
+                                                                )
+
+                                                            [video] => Array
+                                                                (
+                                                                    [regex] => #^https?://.+?\.(mp4|m4v|webm|ogv|wmv|flv)$#i
+                                                                    [callback] => wp_embed_handler_video
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [post_ID] => 
+                                            [usecache] => 1
+                                            [linkifunknown] => 1
+                                        )
+
+                                    [1] => autoembed
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [the_title] => Array
+        (
+            [11] => Array
+                (
+                    [capital_P_dangit] => Array
+                        (
+                            [function] => capital_P_dangit
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [trim] => Array
+                        (
+                            [function] => trim
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_text] => Array
+        (
+            [31] => Array
+                (
+                    [capital_P_dangit] => Array
+                        (
+                            [function] => capital_P_dangit
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [make_clickable] => Array
+                        (
+                            [function] => make_clickable
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [25] => Array
+                (
+                    [force_balance_tags] => Array
+                        (
+                            [function] => force_balance_tags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [20] => Array
+                (
+                    [convert_smilies] => Array
+                        (
+                            [function] => convert_smilies
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [30] => Array
+                (
+                    [wpautop] => Array
+                        (
+                            [function] => wpautop
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [single_post_title] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [strip_tags] => Array
+                        (
+                            [function] => strip_tags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [single_cat_title] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [strip_tags] => Array
+                        (
+                            [function] => strip_tags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [single_tag_title] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [strip_tags] => Array
+                        (
+                            [function] => strip_tags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [single_month_title] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [strip_tags] => Array
+                        (
+                            [function] => strip_tags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [nav_menu_attr_title] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [strip_tags] => Array
+                        (
+                            [function] => strip_tags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [nav_menu_description] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [strip_tags] => Array
+                        (
+                            [function] => strip_tags
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [term_description] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [wpautop] => Array
+                        (
+                            [function] => wpautop
+                            [accepted_args] => 1
+                        )
+
+                    [shortcode_unautop] => Array
+                        (
+                            [function] => shortcode_unautop
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [term_name_rss] => Array
+        (
+            [10] => Array
+                (
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_insert_post_parent] => Array
+        (
+            [10] => Array
+                (
+                    [wp_check_post_hierarchy_for_loops] => Array
+                        (
+                            [function] => wp_check_post_hierarchy_for_loops
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [wp_update_term_parent] => Array
+        (
+            [10] => Array
+                (
+                    [wp_check_term_hierarchy_for_loops] => Array
+                        (
+                            [function] => wp_check_term_hierarchy_for_loops
+                            [accepted_args] => 3
+                        )
+
+                )
+
+        )
+
+    [the_excerpt] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                    [convert_smilies] => Array
+                        (
+                            [function] => convert_smilies
+                            [accepted_args] => 1
+                        )
+
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                    [wpautop] => Array
+                        (
+                            [function] => wpautop
+                            [accepted_args] => 1
+                        )
+
+                    [shortcode_unautop] => Array
+                        (
+                            [function] => shortcode_unautop
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [get_the_excerpt] => Array
+        (
+            [10] => Array
+                (
+                    [wp_trim_excerpt] => Array
+                        (
+                            [function] => wp_trim_excerpt
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_excerpt] => Array
+        (
+            [10] => Array
+                (
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [list_cats] => Array
+        (
+            [10] => Array
+                (
+                    [wptexturize] => Array
+                        (
+                            [function] => wptexturize
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_sprintf] => Array
+        (
+            [10] => Array
+                (
+                    [wp_sprintf_l] => Array
+                        (
+                            [function] => wp_sprintf_l
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [the_title_rss] => Array
+        (
+            [10] => Array
+                (
+                    [strip_tags] => Array
+                        (
+                            [function] => strip_tags
+                            [accepted_args] => 1
+                        )
+
+                    [esc_html] => Array
+                        (
+                            [function] => esc_html
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [ent2ncr] => Array
+                        (
+                            [function] => ent2ncr
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [the_content_rss] => Array
+        (
+            [8] => Array
+                (
+                    [ent2ncr] => Array
+                        (
+                            [function] => ent2ncr
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [the_excerpt_rss] => Array
+        (
+            [10] => Array
+                (
+                    [convert_chars] => Array
+                        (
+                            [function] => convert_chars
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [ent2ncr] => Array
+                        (
+                            [function] => ent2ncr
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_author_rss] => Array
+        (
+            [8] => Array
+                (
+                    [ent2ncr] => Array
+                        (
+                            [function] => ent2ncr
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_text_rss] => Array
+        (
+            [8] => Array
+                (
+                    [ent2ncr] => Array
+                        (
+                            [function] => ent2ncr
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [esc_html] => Array
+                        (
+                            [function] => esc_html
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [bloginfo_rss] => Array
+        (
+            [8] => Array
+                (
+                    [ent2ncr] => Array
+                        (
+                            [function] => ent2ncr
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [the_author] => Array
+        (
+            [8] => Array
+                (
+                    [ent2ncr] => Array
+                        (
+                            [function] => ent2ncr
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [option_ping_sites] => Array
+        (
+            [10] => Array
+                (
+                    [privacy_ping_filter] => Array
+                        (
+                            [function] => privacy_ping_filter
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [option_blog_charset] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_specialchars] => Array
+                        (
+                            [function] => _wp_specialchars
+                            [accepted_args] => 1
+                        )
+
+                    [_canonical_charset] => Array
+                        (
+                            [function] => _canonical_charset
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [option_home] => Array
+        (
+            [10] => Array
+                (
+                    [_config_wp_home] => Array
+                        (
+                            [function] => _config_wp_home
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [option_siteurl] => Array
+        (
+            [10] => Array
+                (
+                    [_config_wp_siteurl] => Array
+                        (
+                            [function] => _config_wp_siteurl
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [tiny_mce_before_init] => Array
+        (
+            [10] => Array
+                (
+                    [_mce_set_direction] => Array
+                        (
+                            [function] => _mce_set_direction
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_kses] => Array
+        (
+            [10] => Array
+                (
+                    [wp_pre_kses_less_than] => Array
+                        (
+                            [function] => wp_pre_kses_less_than
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [sanitize_title] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_title_with_dashes] => Array
+                        (
+                            [function] => sanitize_title_with_dashes
+                            [accepted_args] => 3
+                        )
+
+                )
+
+        )
+
+    [check_comment_flood] => Array
+        (
+            [10] => Array
+                (
+                    [check_comment_flood_db] => Array
+                        (
+                            [function] => check_comment_flood_db
+                            [accepted_args] => 3
+                        )
+
+                )
+
+        )
+
+    [comment_flood_filter] => Array
+        (
+            [10] => Array
+                (
+                    [wp_throttle_comment_flood] => Array
+                        (
+                            [function] => wp_throttle_comment_flood
+                            [accepted_args] => 3
+                        )
+
+                )
+
+        )
+
+    [comment_email] => Array
+        (
+            [10] => Array
+                (
+                    [antispambot] => Array
+                        (
+                            [function] => antispambot
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [option_tag_base] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_filter_taxonomy_base] => Array
+                        (
+                            [function] => _wp_filter_taxonomy_base
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [option_category_base] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_filter_taxonomy_base] => Array
+                        (
+                            [function] => _wp_filter_taxonomy_base
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [the_posts] => Array
+        (
+            [10] => Array
+                (
+                    [_close_comments_for_old_posts] => Array
+                        (
+                            [function] => _close_comments_for_old_posts
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [comments_open] => Array
+        (
+            [10] => Array
+                (
+                    [_close_comments_for_old_post] => Array
+                        (
+                            [function] => _close_comments_for_old_post
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [pings_open] => Array
+        (
+            [10] => Array
+                (
+                    [_close_comments_for_old_post] => Array
+                        (
+                            [function] => _close_comments_for_old_post
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [editable_slug] => Array
+        (
+            [10] => Array
+                (
+                    [urldecode] => Array
+                        (
+                            [function] => urldecode
+                            [accepted_args] => 1
+                        )
+
+                    [esc_textarea] => Array
+                        (
+                            [function] => esc_textarea
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [nav_menu_meta_box_object] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_nav_menu_meta_box_object] => Array
+                        (
+                            [function] => _wp_nav_menu_meta_box_object
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pingback_ping_source_uri] => Array
+        (
+            [10] => Array
+                (
+                    [pingback_ping_source_uri] => Array
+                        (
+                            [function] => pingback_ping_source_uri
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [xmlrpc_pingback_error] => Array
+        (
+            [10] => Array
+                (
+                    [xmlrpc_pingback_error] => Array
+                        (
+                            [function] => xmlrpc_pingback_error
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [http_request_host_is_external] => Array
+        (
+            [10] => Array
+                (
+                    [allowed_http_request_hosts] => Array
+                        (
+                            [function] => allowed_http_request_hosts
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [wp_head] => Array
+        (
+            [1] => Array
+                (
+                    [wp_enqueue_scripts] => Array
+                        (
+                            [function] => wp_enqueue_scripts
+                            [accepted_args] => 1
+                        )
+
+                    [noindex] => Array
+                        (
+                            [function] => noindex
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [feed_links] => Array
+                        (
+                            [function] => feed_links
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [feed_links_extra] => Array
+                        (
+                            [function] => feed_links_extra
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [rsd_link] => Array
+                        (
+                            [function] => rsd_link
+                            [accepted_args] => 1
+                        )
+
+                    [wlwmanifest_link] => Array
+                        (
+                            [function] => wlwmanifest_link
+                            [accepted_args] => 1
+                        )
+
+                    [adjacent_posts_rel_link_wp_head] => Array
+                        (
+                            [function] => adjacent_posts_rel_link_wp_head
+                            [accepted_args] => 0
+                        )
+
+                    [locale_stylesheet] => Array
+                        (
+                            [function] => locale_stylesheet
+                            [accepted_args] => 1
+                        )
+
+                    [wp_generator] => Array
+                        (
+                            [function] => wp_generator
+                            [accepted_args] => 1
+                        )
+
+                    [rel_canonical] => Array
+                        (
+                            [function] => rel_canonical
+                            [accepted_args] => 1
+                        )
+
+                    [wp_shortlink_wp_head] => Array
+                        (
+                            [function] => wp_shortlink_wp_head
+                            [accepted_args] => 0
+                        )
+
+                    [000000006db47ad400000000eaed931arecent_comments_style] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Widget_Recent_Comments Object
+                                        (
+                                            [id_base] => recent-comments
+                                            [name] => 近期评论
+                                            [widget_options] => Array
+                                                (
+                                                    [classname] => widget_recent_comments
+                                                    [description] => 近期的数条评论
+                                                )
+
+                                            [control_options] => Array
+                                                (
+                                                    [id_base] => recent-comments
+                                                )
+
+                                            [number] => 2
+                                            [id] => recent-comments-2
+                                            [updated] => 
+                                            [option_name] => widget_recent-comments
+                                            [alt_option_name] => widget_recent_comments
+                                        )
+
+                                    [1] => recent_comments_style
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [wp_print_styles] => Array
+                        (
+                            [function] => wp_print_styles
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [wp_print_head_scripts] => Array
+                        (
+                            [function] => wp_print_head_scripts
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [20] => Array
+                (
+                    [000000006db47a3c00000000eaed931atc_write_custom_css] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_header Object
+                                        (
+                                        )
+
+                                    [1] => tc_write_custom_css
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [publish_future_post] => Array
+        (
+            [10] => Array
+                (
+                    [check_and_publish_future_post] => Array
+                        (
+                            [function] => check_and_publish_future_post
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_footer] => Array
+        (
+            [20] => Array
+                (
+                    [wp_print_footer_scripts] => Array
+                        (
+                            [function] => wp_print_footer_scripts
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47a3900000000eaed931atc_generated_scripts] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_ressources Object
+                                        (
+                                        )
+
+                                    [1] => tc_generated_scripts
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47ac000000000eaed931atc_slider_footer_options] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_slider Object
+                                        (
+                                        )
+
+                                    [1] => tc_slider_footer_options
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [1000] => Array
+                (
+                    [wp_admin_bar_render] => Array
+                        (
+                            [function] => wp_admin_bar_render
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [template_redirect] => Array
+        (
+            [0] => Array
+                (
+                    [_wp_admin_bar_init] => Array
+                        (
+                            [function] => _wp_admin_bar_init
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [wp_old_slug_redirect] => Array
+                        (
+                            [function] => wp_old_slug_redirect
+                            [accepted_args] => 1
+                        )
+
+                    [redirect_canonical] => Array
+                        (
+                            [function] => redirect_canonical
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [wp_shortlink_header] => Array
+                        (
+                            [function] => wp_shortlink_header
+                            [accepted_args] => 0
+                        )
+
+                )
+
+            [1000] => Array
+                (
+                    [wp_redirect_admin_locations] => Array
+                        (
+                            [function] => wp_redirect_admin_locations
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_print_footer_scripts] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_footer_scripts] => Array
+                        (
+                            [function] => _wp_footer_scripts
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [init] => Array
+        (
+            [0] => Array
+                (
+                    [create_initial_post_types] => Array
+                        (
+                            [function] => create_initial_post_types
+                            [accepted_args] => 1
+                        )
+
+                    [create_initial_taxonomies] => Array
+                        (
+                            [function] => create_initial_taxonomies
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [wp_widgets_init] => Array
+                        (
+                            [function] => wp_widgets_init
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [smilies_init] => Array
+                        (
+                            [function] => smilies_init
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [wp_cron] => Array
+                        (
+                            [function] => wp_cron
+                            [accepted_args] => 1
+                        )
+
+                    [_show_post_preview] => Array
+                        (
+                            [function] => _show_post_preview
+                            [accepted_args] => 1
+                        )
+
+                    [kses_init] => Array
+                        (
+                            [function] => kses_init
+                            [accepted_args] => 1
+                        )
+
+                    [wp_schedule_update_checks] => Array
+                        (
+                            [function] => wp_schedule_update_checks
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [99] => Array
+                (
+                    [check_theme_switched] => Array
+                        (
+                            [function] => check_theme_switched
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [after_switch_theme] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_sidebars_changed] => Array
+                        (
+                            [function] => _wp_sidebars_changed
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [login_head] => Array
+        (
+            [9] => Array
+                (
+                    [wp_print_head_scripts] => Array
+                        (
+                            [function] => wp_print_head_scripts
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [login_footer] => Array
+        (
+            [20] => Array
+                (
+                    [wp_print_footer_scripts] => Array
+                        (
+                            [function] => wp_print_footer_scripts
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [login_init] => Array
+        (
+            [10] => Array
+                (
+                    [send_frame_options_header] => Array
+                        (
+                            [function] => send_frame_options_header
+                            [accepted_args] => 0
+                        )
+
+                )
+
+        )
+
+    [rss2_head] => Array
+        (
+            [10] => Array
+                (
+                    [the_generator] => Array
+                        (
+                            [function] => the_generator
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [commentsrss2_head] => Array
+        (
+            [10] => Array
+                (
+                    [the_generator] => Array
+                        (
+                            [function] => the_generator
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [rss_head] => Array
+        (
+            [10] => Array
+                (
+                    [the_generator] => Array
+                        (
+                            [function] => the_generator
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [rdf_header] => Array
+        (
+            [10] => Array
+                (
+                    [the_generator] => Array
+                        (
+                            [function] => the_generator
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [atom_head] => Array
+        (
+            [10] => Array
+                (
+                    [the_generator] => Array
+                        (
+                            [function] => the_generator
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comments_atom_head] => Array
+        (
+            [10] => Array
+                (
+                    [the_generator] => Array
+                        (
+                            [function] => the_generator
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [opml_head] => Array
+        (
+            [10] => Array
+                (
+                    [the_generator] => Array
+                        (
+                            [function] => the_generator
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [app_head] => Array
+        (
+            [10] => Array
+                (
+                    [the_generator] => Array
+                        (
+                            [function] => the_generator
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [do_feed_rdf] => Array
+        (
+            [10] => Array
+                (
+                    [do_feed_rdf] => Array
+                        (
+                            [function] => do_feed_rdf
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [do_feed_rss] => Array
+        (
+            [10] => Array
+                (
+                    [do_feed_rss] => Array
+                        (
+                            [function] => do_feed_rss
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [do_feed_rss2] => Array
+        (
+            [10] => Array
+                (
+                    [do_feed_rss2] => Array
+                        (
+                            [function] => do_feed_rss2
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [do_feed_atom] => Array
+        (
+            [10] => Array
+                (
+                    [do_feed_atom] => Array
+                        (
+                            [function] => do_feed_atom
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [do_pings] => Array
+        (
+            [10] => Array
+                (
+                    [do_all_pings] => Array
+                        (
+                            [function] => do_all_pings
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [do_robots] => Array
+        (
+            [10] => Array
+                (
+                    [do_robots] => Array
+                        (
+                            [function] => do_robots
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [set_comment_cookies] => Array
+        (
+            [10] => Array
+                (
+                    [wp_set_comment_cookies] => Array
+                        (
+                            [function] => wp_set_comment_cookies
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [sanitize_comment_cookies] => Array
+        (
+            [10] => Array
+                (
+                    [sanitize_comment_cookies] => Array
+                        (
+                            [function] => sanitize_comment_cookies
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [admin_print_scripts] => Array
+        (
+            [20] => Array
+                (
+                    [print_head_scripts] => Array
+                        (
+                            [function] => print_head_scripts
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [admin_print_footer_scripts] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_footer_scripts] => Array
+                        (
+                            [function] => _wp_footer_scripts
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [admin_print_styles] => Array
+        (
+            [20] => Array
+                (
+                    [print_admin_styles] => Array
+                        (
+                            [function] => print_admin_styles
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [plugins_loaded] => Array
+        (
+            [0] => Array
+                (
+                    [wp_maybe_load_widgets] => Array
+                        (
+                            [function] => wp_maybe_load_widgets
+                            [accepted_args] => 1
+                        )
+
+                    [wp_maybe_load_embeds] => Array
+                        (
+                            [function] => wp_maybe_load_embeds
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [_wp_customize_include] => Array
+                        (
+                            [function] => _wp_customize_include
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [shutdown] => Array
+        (
+            [1] => Array
+                (
+                    [wp_ob_end_flush_all] => Array
+                        (
+                            [function] => wp_ob_end_flush_all
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [post_updated] => Array
+        (
+            [10] => Array
+                (
+                    [wp_save_post_revision] => Array
+                        (
+                            [function] => wp_save_post_revision
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [wp_check_for_changed_slugs] => Array
+                        (
+                            [function] => wp_check_for_changed_slugs
+                            [accepted_args] => 3
+                        )
+
+                )
+
+        )
+
+    [publish_post] => Array
+        (
+            [5] => Array
+                (
+                    [_publish_post_hook] => Array
+                        (
+                            [function] => _publish_post_hook
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [transition_post_status] => Array
+        (
+            [5] => Array
+                (
+                    [_transition_post_status] => Array
+                        (
+                            [function] => _transition_post_status
+                            [accepted_args] => 3
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [_update_term_count_on_transition_post_status] => Array
+                        (
+                            [function] => _update_term_count_on_transition_post_status
+                            [accepted_args] => 3
+                        )
+
+                    [_wp_auto_add_pages_to_menu] => Array
+                        (
+                            [function] => _wp_auto_add_pages_to_menu
+                            [accepted_args] => 3
+                        )
+
+                    [__clear_multi_author_cache] => Array
+                        (
+                            [function] => __clear_multi_author_cache
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_form] => Array
+        (
+            [10] => Array
+                (
+                    [wp_comment_form_unfiltered_html_nonce] => Array
+                        (
+                            [function] => wp_comment_form_unfiltered_html_nonce
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_scheduled_delete] => Array
+        (
+            [10] => Array
+                (
+                    [wp_scheduled_delete] => Array
+                        (
+                            [function] => wp_scheduled_delete
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_scheduled_auto_draft_delete] => Array
+        (
+            [10] => Array
+                (
+                    [wp_delete_auto_drafts] => Array
+                        (
+                            [function] => wp_delete_auto_drafts
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [admin_init] => Array
+        (
+            [10] => Array
+                (
+                    [send_frame_options_header] => Array
+                        (
+                            [function] => send_frame_options_header
+                            [accepted_args] => 0
+                        )
+
+                    [_maybe_update_core] => Array
+                        (
+                            [function] => _maybe_update_core
+                            [accepted_args] => 1
+                        )
+
+                    [_maybe_update_plugins] => Array
+                        (
+                            [function] => _maybe_update_plugins
+                            [accepted_args] => 1
+                        )
+
+                    [_maybe_update_themes] => Array
+                        (
+                            [function] => _maybe_update_themes
+                            [accepted_args] => 1
+                        )
+
+                    [_wp_admin_bar_init] => Array
+                        (
+                            [function] => _wp_admin_bar_init
+                            [accepted_args] => 1
+                        )
+
+                    [zh_cn_l10n_legacy_option_cleanup] => Array
+                        (
+                            [function] => zh_cn_l10n_legacy_option_cleanup
+                            [accepted_args] => 1
+                        )
+
+                    [zh_cn_l10n_patch_admin_screens_style_enqueue_stylesheet] => Array
+                        (
+                            [function] => zh_cn_l10n_patch_admin_screens_style_enqueue_stylesheet
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47a3400000000eaed931atc_load_meta_boxes] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_admin_init Object
+                                        (
+                                        )
+
+                                    [1] => tc_load_meta_boxes
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47a3400000000eaed931atc_theme_activation] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_admin_init Object
+                                        (
+                                        )
+
+                                    [1] => tc_theme_activation
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47a3400000000eaed931atc_admin_style] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_admin_init Object
+                                        (
+                                        )
+
+                                    [1] => tc_admin_style
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [register_admin_color_schemes] => Array
+                        (
+                            [function] => register_admin_color_schemes
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [importer_scheduled_cleanup] => Array
+        (
+            [10] => Array
+                (
+                    [wp_delete_attachment] => Array
+                        (
+                            [function] => wp_delete_attachment
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [upgrader_scheduled_cleanup] => Array
+        (
+            [10] => Array
+                (
+                    [wp_delete_attachment] => Array
+                        (
+                            [function] => wp_delete_attachment
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [welcome_panel] => Array
+        (
+            [10] => Array
+                (
+                    [wp_welcome_panel] => Array
+                        (
+                            [function] => wp_welcome_panel
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [delete_post] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_delete_post_menu_item] => Array
+                        (
+                            [function] => _wp_delete_post_menu_item
+                            [accepted_args] => 1
+                        )
+
+                    [delete_get_calendar_cache] => Array
+                        (
+                            [function] => delete_get_calendar_cache
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [delete_term] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_delete_tax_menu_item] => Array
+                        (
+                            [function] => _wp_delete_tax_menu_item
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [begin_fetch_post_thumbnail_html] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_post_thumbnail_class_filter_add] => Array
+                        (
+                            [function] => _wp_post_thumbnail_class_filter_add
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [end_fetch_post_thumbnail_html] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_post_thumbnail_class_filter_remove] => Array
+                        (
+                            [function] => _wp_post_thumbnail_class_filter_remove
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_option_gmt_offset] => Array
+        (
+            [10] => Array
+                (
+                    [wp_timezone_override_offset] => Array
+                        (
+                            [function] => wp_timezone_override_offset
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [admin_color_scheme_picker] => Array
+        (
+            [10] => Array
+                (
+                    [admin_color_scheme_picker] => Array
+                        (
+                            [function] => admin_color_scheme_picker
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [default_option_link_manager_enabled] => Array
+        (
+            [10] => Array
+                (
+                    [__return_true] => Array
+                        (
+                            [function] => __return_true
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [default_option_embed_autourls] => Array
+        (
+            [10] => Array
+                (
+                    [__return_true] => Array
+                        (
+                            [function] => __return_true
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [heartbeat_settings] => Array
+        (
+            [10] => Array
+                (
+                    [wp_heartbeat_settings] => Array
+                        (
+                            [function] => wp_heartbeat_settings
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [admin_enqueue_scripts] => Array
+        (
+            [10] => Array
+                (
+                    [wp_auth_check_load] => Array
+                        (
+                            [function] => wp_auth_check_load
+                            [accepted_args] => 1
+                        )
+
+                    [_wp_customize_loader_settings] => Array
+                        (
+                            [function] => _wp_customize_loader_settings
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [heartbeat_received] => Array
+        (
+            [10] => Array
+                (
+                    [wp_auth_check] => Array
+                        (
+                            [function] => wp_auth_check
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [heartbeat_nopriv_received] => Array
+        (
+            [10] => Array
+                (
+                    [wp_auth_check] => Array
+                        (
+                            [function] => wp_auth_check
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [setup_theme] => Array
+        (
+            [10] => Array
+                (
+                    [preview_theme] => Array
+                        (
+                            [function] => preview_theme
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_loaded] => Array
+        (
+            [10] => Array
+                (
+                    [_custom_header_background_just_in_time] => Array
+                        (
+                            [function] => _custom_header_background_just_in_time
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [delete_attachment] => Array
+        (
+            [10] => Array
+                (
+                    [_delete_attachment_theme_mod] => Array
+                        (
+                            [function] => _delete_attachment_theme_mod
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [authenticate] => Array
+        (
+            [20] => Array
+                (
+                    [wp_authenticate_username_password] => Array
+                        (
+                            [function] => wp_authenticate_username_password
+                            [accepted_args] => 3
+                        )
+
+                )
+
+        )
+
+    [save_post] => Array
+        (
+            [10] => Array
+                (
+                    [delete_get_calendar_cache] => Array
+                        (
+                            [function] => delete_get_calendar_cache
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47ad500000000eaed931aflush_widget_cache] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Widget_Recent_Posts Object
+                                        (
+                                            [id_base] => recent-posts
+                                            [name] => 近期文章
+                                            [widget_options] => Array
+                                                (
+                                                    [classname] => widget_recent_entries
+                                                    [description] => 您站点最近的文章
+                                                )
+
+                                            [control_options] => Array
+                                                (
+                                                    [id_base] => recent-posts
+                                                )
+
+                                            [number] => 2
+                                            [id] => recent-posts-2
+                                            [updated] => 
+                                            [option_name] => widget_recent-posts
+                                            [alt_option_name] => widget_recent_entries
+                                        )
+
+                                    [1] => flush_widget_cache
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [update_option_start_of_week] => Array
+        (
+            [10] => Array
+                (
+                    [delete_get_calendar_cache] => Array
+                        (
+                            [function] => delete_get_calendar_cache
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [update_option_gmt_offset] => Array
+        (
+            [10] => Array
+                (
+                    [delete_get_calendar_cache] => Array
+                        (
+                            [function] => delete_get_calendar_cache
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [admin_menu] => Array
+        (
+            [10] => Array
+                (
+                    [_add_post_type_submenus] => Array
+                        (
+                            [function] => _add_post_type_submenus
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47a3700000000eaed931atc_add_options_menu] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_add_options_menu
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47a3400000000eaed931atc_add_welcome_page] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_admin_init Object
+                                        (
+                                        )
+
+                                    [1] => tc_add_welcome_page
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [request] => Array
+        (
+            [10] => Array
+                (
+                    [_post_format_request] => Array
+                        (
+                            [function] => _post_format_request
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [term_link] => Array
+        (
+            [10] => Array
+                (
+                    [_post_format_link] => Array
+                        (
+                            [function] => _post_format_link
+                            [accepted_args] => 3
+                        )
+
+                )
+
+        )
+
+    [get_post_format] => Array
+        (
+            [10] => Array
+                (
+                    [_post_format_get_term] => Array
+                        (
+                            [function] => _post_format_get_term
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [get_terms] => Array
+        (
+            [10] => Array
+                (
+                    [_post_format_get_terms] => Array
+                        (
+                            [function] => _post_format_get_terms
+                            [accepted_args] => 3
+                        )
+
+                )
+
+        )
+
+    [wp_get_object_terms] => Array
+        (
+            [10] => Array
+                (
+                    [_post_format_wp_get_object_terms] => Array
+                        (
+                            [function] => _post_format_wp_get_object_terms
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [set_current_user] => Array
+        (
+            [10] => Array
+                (
+                    [kses_init] => Array
+                        (
+                            [function] => kses_init
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_default_scripts] => Array
+        (
+            [10] => Array
+                (
+                    [wp_default_scripts] => Array
+                        (
+                            [function] => wp_default_scripts
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_print_scripts] => Array
+        (
+            [10] => Array
+                (
+                    [wp_just_in_time_script_localization] => Array
+                        (
+                            [function] => wp_just_in_time_script_localization
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [print_scripts_array] => Array
+        (
+            [10] => Array
+                (
+                    [wp_prototype_before_jquery] => Array
+                        (
+                            [function] => wp_prototype_before_jquery
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_default_styles] => Array
+        (
+            [10] => Array
+                (
+                    [wp_default_styles] => Array
+                        (
+                            [function] => wp_default_styles
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [style_loader_src] => Array
+        (
+            [10] => Array
+                (
+                    [wp_style_loader_src] => Array
+                        (
+                            [function] => wp_style_loader_src
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [wp_version_check] => Array
+        (
+            [10] => Array
+                (
+                    [wp_version_check] => Array
+                        (
+                            [function] => wp_version_check
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [load-plugins.php] => Array
+        (
+            [10] => Array
+                (
+                    [wp_update_plugins] => Array
+                        (
+                            [function] => wp_update_plugins
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [load-update.php] => Array
+        (
+            [10] => Array
+                (
+                    [wp_update_plugins] => Array
+                        (
+                            [function] => wp_update_plugins
+                            [accepted_args] => 1
+                        )
+
+                    [wp_update_themes] => Array
+                        (
+                            [function] => wp_update_themes
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [load-update-core.php] => Array
+        (
+            [10] => Array
+                (
+                    [wp_update_plugins] => Array
+                        (
+                            [function] => wp_update_plugins
+                            [accepted_args] => 1
+                        )
+
+                    [wp_update_themes] => Array
+                        (
+                            [function] => wp_update_themes
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_update_plugins] => Array
+        (
+            [10] => Array
+                (
+                    [wp_update_plugins] => Array
+                        (
+                            [function] => wp_update_plugins
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [load-themes.php] => Array
+        (
+            [10] => Array
+                (
+                    [wp_update_themes] => Array
+                        (
+                            [function] => wp_update_themes
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_update_themes] => Array
+        (
+            [10] => Array
+                (
+                    [wp_update_themes] => Array
+                        (
+                            [function] => wp_update_themes
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [pre_post_update] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47dd200000000eaed931adelete_oembed_caches] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Embed Object
+                                        (
+                                            [handlers] => Array
+                                                (
+                                                    [10] => Array
+                                                        (
+                                                            [googlevideo] => Array
+                                                                (
+                                                                    [regex] => #http://video\.google\.([A-Za-z.]{2,5})/videoplay\?docid=([\d-]+)(.*?)#i
+                                                                    [callback] => wp_embed_handler_googlevideo
+                                                                )
+
+                                                            [tudou] => Array
+                                                                (
+                                                                    [regex] => #https?://(?:www\.)?tudou\.com/(?:programs/view|listplay/(?<list_id>[a-z0-9_=\-]+))/(?<video_id>[a-z0-9_=\-]+)#i
+                                                                    [callback] => wp_embed_handler_tudou
+                                                                )
+
+                                                            [56com] => Array
+                                                                (
+                                                                    [regex] => #https?://(?:www\.)?56\.com/[a-z0-9]+/(?:play_album\-aid\-[0-9]+_vid\-(?<video_id1>[a-z0-9_=\-]+)|v_(?<video_id2>[a-z0-9_=\-]+))#i
+                                                                    [callback] => wp_embed_handler_56com
+                                                                )
+
+                                                            [youku] => Array
+                                                                (
+                                                                    [regex] => #https?://v\.youku\.com/v_show/id_(?<video_id>[a-z0-9_=\-]+)#i
+                                                                    [callback] => wp_embed_handler_youku
+                                                                )
+
+                                                        )
+
+                                                    [9999] => Array
+                                                        (
+                                                            [audio] => Array
+                                                                (
+                                                                    [regex] => #^https?://.+?\.(mp3|ogg|wma|m4a|wav)$#i
+                                                                    [callback] => wp_embed_handler_audio
+                                                                )
+
+                                                            [video] => Array
+                                                                (
+                                                                    [regex] => #^https?://.+?\.(mp4|m4v|webm|ogv|wmv|flv)$#i
+                                                                    [callback] => wp_embed_handler_video
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [post_ID] => 
+                                            [usecache] => 1
+                                            [linkifunknown] => 1
+                                        )
+
+                                    [1] => delete_oembed_caches
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [edit_form_advanced] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47dd200000000eaed931amaybe_run_ajax_cache] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Embed Object
+                                        (
+                                            [handlers] => Array
+                                                (
+                                                    [10] => Array
+                                                        (
+                                                            [googlevideo] => Array
+                                                                (
+                                                                    [regex] => #http://video\.google\.([A-Za-z.]{2,5})/videoplay\?docid=([\d-]+)(.*?)#i
+                                                                    [callback] => wp_embed_handler_googlevideo
+                                                                )
+
+                                                            [tudou] => Array
+                                                                (
+                                                                    [regex] => #https?://(?:www\.)?tudou\.com/(?:programs/view|listplay/(?<list_id>[a-z0-9_=\-]+))/(?<video_id>[a-z0-9_=\-]+)#i
+                                                                    [callback] => wp_embed_handler_tudou
+                                                                )
+
+                                                            [56com] => Array
+                                                                (
+                                                                    [regex] => #https?://(?:www\.)?56\.com/[a-z0-9]+/(?:play_album\-aid\-[0-9]+_vid\-(?<video_id1>[a-z0-9_=\-]+)|v_(?<video_id2>[a-z0-9_=\-]+))#i
+                                                                    [callback] => wp_embed_handler_56com
+                                                                )
+
+                                                            [youku] => Array
+                                                                (
+                                                                    [regex] => #https?://v\.youku\.com/v_show/id_(?<video_id>[a-z0-9_=\-]+)#i
+                                                                    [callback] => wp_embed_handler_youku
+                                                                )
+
+                                                        )
+
+                                                    [9999] => Array
+                                                        (
+                                                            [audio] => Array
+                                                                (
+                                                                    [regex] => #^https?://.+?\.(mp3|ogg|wma|m4a|wav)$#i
+                                                                    [callback] => wp_embed_handler_audio
+                                                                )
+
+                                                            [video] => Array
+                                                                (
+                                                                    [regex] => #^https?://.+?\.(mp4|m4v|webm|ogv|wmv|flv)$#i
+                                                                    [callback] => wp_embed_handler_video
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [post_ID] => 
+                                            [usecache] => 1
+                                            [linkifunknown] => 1
+                                        )
+
+                                    [1] => maybe_run_ajax_cache
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [customize_controls_enqueue_scripts] => Array
+        (
+            [10] => Array
+                (
+                    [wp_plupload_default_settings] => Array
+                        (
+                            [function] => wp_plupload_default_settings
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [nav_menu_item_id] => Array
+        (
+            [10] => Array
+                (
+                    [_nav_menu_item_id_use_once] => Array
+                        (
+                            [function] => _nav_menu_item_id_use_once
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [in_admin_header] => Array
+        (
+            [0] => Array
+                (
+                    [wp_admin_bar_render] => Array
+                        (
+                            [function] => wp_admin_bar_render
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_ajax_add-category] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_ajax_add_hierarchical_term] => Array
+                        (
+                            [function] => _wp_ajax_add_hierarchical_term
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_ajax_add-post_tag] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_ajax_add_hierarchical_term] => Array
+                        (
+                            [function] => _wp_ajax_add_hierarchical_term
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_ajax_add-nav_menu] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_ajax_add_hierarchical_term] => Array
+                        (
+                            [function] => _wp_ajax_add_hierarchical_term
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_ajax_add-link_category] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_ajax_add_hierarchical_term] => Array
+                        (
+                            [function] => _wp_ajax_add_hierarchical_term
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_ajax_add-post_format] => Array
+        (
+            [10] => Array
+                (
+                    [_wp_ajax_add_hierarchical_term] => Array
+                        (
+                            [function] => _wp_ajax_add_hierarchical_term
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [future_post] => Array
+        (
+            [5] => Array
+                (
+                    [_future_post_hook] => Array
+                        (
+                            [function] => _future_post_hook
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [future_page] => Array
+        (
+            [5] => Array
+                (
+                    [_future_post_hook] => Array
+                        (
+                            [function] => _future_post_hook
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [future_attachment] => Array
+        (
+            [5] => Array
+                (
+                    [_future_post_hook] => Array
+                        (
+                            [function] => _future_post_hook
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [future_revision] => Array
+        (
+            [5] => Array
+                (
+                    [_future_post_hook] => Array
+                        (
+                            [function] => _future_post_hook
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [future_nav_menu_item] => Array
+        (
+            [5] => Array
+                (
+                    [_future_post_hook] => Array
+                        (
+                            [function] => _future_post_hook
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [_admin_menu] => Array
+        (
+            [10] => Array
+                (
+                    [wp_widgets_add_menu] => Array
+                        (
+                            [function] => wp_widgets_add_menu
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [widgets_init] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3b00000000eaed931atc_widgets_factory] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_widgets Object
+                                        (
+                                        )
+
+                                    [1] => tc_widgets_factory
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [100] => Array
+                (
+                    [000000006db47dff00000000eaed931a_register_widgets] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Widget_Factory Object
+                                        (
+                                            [widgets] => Array
+                                                (
+                                                    [WP_Widget_Pages] => WP_Widget_Pages Object
+                                                        (
+                                                            [id_base] => pages
+                                                            [name] => 页面
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_pages
+                                                                    [description] => 您站点的 WordPress 页面
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => pages
+                                                                )
+
+                                                            [number] => 1
+                                                            [id] => pages-1
+                                                            [updated] => 
+                                                            [option_name] => widget_pages
+                                                        )
+
+                                                    [WP_Widget_Calendar] => WP_Widget_Calendar Object
+                                                        (
+                                                            [id_base] => calendar
+                                                            [name] => 日历
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_calendar
+                                                                    [description] => 您站点的文章日程表
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => calendar
+                                                                )
+
+                                                            [number] => 1
+                                                            [id] => calendar-1
+                                                            [updated] => 
+                                                            [option_name] => widget_calendar
+                                                        )
+
+                                                    [WP_Widget_Archives] => WP_Widget_Archives Object
+                                                        (
+                                                            [id_base] => archives
+                                                            [name] => 文章归档
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_archive
+                                                                    [description] => 您站点文章的月度存档
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => archives
+                                                                )
+
+                                                            [number] => 2
+                                                            [id] => archives-2
+                                                            [updated] => 
+                                                            [option_name] => widget_archives
+                                                        )
+
+                                                    [WP_Widget_Meta] => WP_Widget_Meta Object
+                                                        (
+                                                            [id_base] => meta
+                                                            [name] => 功能
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_meta
+                                                                    [description] => 登录和登出、管理、feed 和 WordPress 的链接
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => meta
+                                                                )
+
+                                                            [number] => 2
+                                                            [id] => meta-2
+                                                            [updated] => 
+                                                            [option_name] => widget_meta
+                                                        )
+
+                                                    [WP_Widget_Search] => WP_Widget_Search Object
+                                                        (
+                                                            [id_base] => search
+                                                            [name] => 搜索
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_search
+                                                                    [description] => 您站点的搜索框
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => search
+                                                                )
+
+                                                            [number] => 2
+                                                            [id] => search-2
+                                                            [updated] => 
+                                                            [option_name] => widget_search
+                                                        )
+
+                                                    [WP_Widget_Text] => WP_Widget_Text Object
+                                                        (
+                                                            [id_base] => text
+                                                            [name] => 文本
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_text
+                                                                    [description] => 任意文本或 HTML
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => text
+                                                                    [width] => 400
+                                                                    [height] => 350
+                                                                )
+
+                                                            [number] => 1
+                                                            [id] => text-1
+                                                            [updated] => 
+                                                            [option_name] => widget_text
+                                                        )
+
+                                                    [WP_Widget_Categories] => WP_Widget_Categories Object
+                                                        (
+                                                            [id_base] => categories
+                                                            [name] => 分类目录
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_categories
+                                                                    [description] => 分类目录的列表或下拉菜单
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => categories
+                                                                )
+
+                                                            [number] => 2
+                                                            [id] => categories-2
+                                                            [updated] => 
+                                                            [option_name] => widget_categories
+                                                        )
+
+                                                    [WP_Widget_Recent_Posts] => WP_Widget_Recent_Posts Object
+                                                        (
+                                                            [id_base] => recent-posts
+                                                            [name] => 近期文章
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_recent_entries
+                                                                    [description] => 您站点最近的文章
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => recent-posts
+                                                                )
+
+                                                            [number] => 2
+                                                            [id] => recent-posts-2
+                                                            [updated] => 
+                                                            [option_name] => widget_recent-posts
+                                                            [alt_option_name] => widget_recent_entries
+                                                        )
+
+                                                    [WP_Widget_Recent_Comments] => WP_Widget_Recent_Comments Object
+                                                        (
+                                                            [id_base] => recent-comments
+                                                            [name] => 近期评论
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_recent_comments
+                                                                    [description] => 近期的数条评论
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => recent-comments
+                                                                )
+
+                                                            [number] => 2
+                                                            [id] => recent-comments-2
+                                                            [updated] => 
+                                                            [option_name] => widget_recent-comments
+                                                            [alt_option_name] => widget_recent_comments
+                                                        )
+
+                                                    [WP_Widget_RSS] => WP_Widget_RSS Object
+                                                        (
+                                                            [id_base] => rss
+                                                            [name] => RSS
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_rss
+                                                                    [description] => 嵌入任意 RSS 或 Atom feed 中的条目
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => rss
+                                                                    [width] => 400
+                                                                    [height] => 200
+                                                                )
+
+                                                            [number] => 1
+                                                            [id] => rss-1
+                                                            [updated] => 
+                                                            [option_name] => widget_rss
+                                                        )
+
+                                                    [WP_Widget_Tag_Cloud] => WP_Widget_Tag_Cloud Object
+                                                        (
+                                                            [id_base] => tag_cloud
+                                                            [name] => 标签云
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_tag_cloud
+                                                                    [description] => 用云的形式展现您常用的标签
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => tag_cloud
+                                                                )
+
+                                                            [number] => 1
+                                                            [id] => tag_cloud-1
+                                                            [updated] => 
+                                                            [option_name] => widget_tag_cloud
+                                                        )
+
+                                                    [WP_Nav_Menu_Widget] => WP_Nav_Menu_Widget Object
+                                                        (
+                                                            [id_base] => nav_menu
+                                                            [name] => 自定义菜单
+                                                            [widget_options] => Array
+                                                                (
+                                                                    [classname] => widget_nav_menu
+                                                                    [description] => 这个小工具可使自定义菜单显示在边栏中。
+                                                                )
+
+                                                            [control_options] => Array
+                                                                (
+                                                                    [id_base] => nav_menu
+                                                                )
+
+                                                            [number] => 1
+                                                            [id] => nav_menu-1
+                                                            [updated] => 
+                                                            [option_name] => widget_nav_menu
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [1] => _register_widgets
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [admin_footer] => Array
+        (
+            [10] => Array
+                (
+                    [zh_cn_l10n_patch_character_count_register_script] => Array
+                        (
+                            [function] => zh_cn_l10n_patch_character_count_register_script
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [customize_register] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3700000000eaed931atc_add_controls_class] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_add_controls_class
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+            [20] => Array
+                (
+                    [000000006db47a3700000000eaed931atc_customize_register] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_customize_register
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__customize_args] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3700000000eaed931atc_customize_arguments] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_customize_arguments
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__customize_map] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3700000000eaed931atc_customizer_map] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_customizer_map
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__customize_factory] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3700000000eaed931atc_customize_factory] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_customize_factory
+                                )
+
+                            [accepted_args] => 3
+                        )
+
+                )
+
+        )
+
+    [__sanitize_textarea] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3700000000eaed931atc_sanitize_textarea] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_sanitize_textarea
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__sanitize_number] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3700000000eaed931atc_sanitize_number] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_sanitize_number
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__sanitize_url] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3700000000eaed931atc_sanitize_url] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_sanitize_url
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [customize_preview_init] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3700000000eaed931atc_customize_preview_js] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_customize_preview_js
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_before_admin_bar_render] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3700000000eaed931atc_add_admin_bar_options_menu] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_customize Object
+                                        (
+                                        )
+
+                                    [1] => tc_add_admin_bar_options_menu
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [upgrader_post_install] => Array
+        (
+            [1000] => Array
+                (
+                    [000000006db47a3400000000eaed931atc_redirect_after_update] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_admin_init Object
+                                        (
+                                        )
+
+                                    [1] => tc_redirect_after_update
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [changelog] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3400000000eaed931atc_extract_changelog] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_admin_init Object
+                                        (
+                                        )
+
+                                    [1] => tc_extract_changelog
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [after_setup_theme] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3600000000eaed931atc_customizr_setup] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_init Object
+                                        (
+                                        )
+
+                                    [1] => tc_customizr_setup
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_enqueue_scripts] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3900000000eaed931atc_customizer_styles] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_ressources Object
+                                        (
+                                        )
+
+                                    [1] => tc_customizer_styles
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47a3900000000eaed931atc_scripts] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_ressources Object
+                                        (
+                                        )
+
+                                    [1] => tc_scripts
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                    [000000006db47a3900000000eaed931atc_optional_scripts] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_ressources Object
+                                        (
+                                        )
+
+                                    [1] => tc_optional_scripts
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__get_default_options] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_get_default_options] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_get_default_options
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__options] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_get_theme_options] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_get_theme_options
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__default_options_from_customizer_map] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_get_default_options_from_customizer_map] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_get_default_options_from_customizer_map
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__get_option] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_get_option] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_get_option
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__ID] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_get_the_ID] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_get_the_ID
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__screen_layout] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_get_current_screen_layout] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_get_current_screen_layout
+                                )
+
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [__screen_slider] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_get_current_screen_slider] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_get_current_screen_slider
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__is_home] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_is_home] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_is_home
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__is_home_empty] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_is_home_empty] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_is_home_empty
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__customizr_entry_date] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_customizr_entry_date] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_customizr_entry_date
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__social] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_display_social] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_display_social
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [wp_page_menu] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3800000000eaed931aadd_menuclass] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => add_menuclass
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [post_gallery] => Array
+        (
+            [20] => Array
+                (
+                    [000000006db47a3800000000eaed931atc_fancybox_gallery_filter] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_utils Object
+                                        (
+                                        )
+
+                                    [1] => tc_fancybox_gallery_filter
+                                )
+
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [__content] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3a00000000eaed931atc_display_content] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_content Object
+                                        (
+                                        )
+
+                                    [1] => tc_display_content
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__footer] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3d00000000eaed931atc_display_footer] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_footer Object
+                                        (
+                                        )
+
+                                    [1] => tc_display_footer
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__credits] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3d00000000eaed931atc_footer_credits] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_footer Object
+                                        (
+                                        )
+
+                                    [1] => tc_footer_credits
+                                )
+
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [__head] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3c00000000eaed931atc_display_head] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_header Object
+                                        (
+                                        )
+
+                                    [1] => tc_display_head
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__favicon] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3c00000000eaed931atc_display_favicon] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_header Object
+                                        (
+                                        )
+
+                                    [1] => tc_display_favicon
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__logo_title] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3c00000000eaed931atc_display_logo_title] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_header Object
+                                        (
+                                        )
+
+                                    [1] => tc_display_logo_title
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__tagline] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3c00000000eaed931atc_display_tagline] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_header Object
+                                        (
+                                        )
+
+                                    [1] => tc_display_tagline
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__loop] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3f00000000eaed931atc_loop] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_loop Object
+                                        (
+                                        )
+
+                                    [1] => tc_loop
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__menu] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47a3e00000000eaed931atc_render_menu] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_menu Object
+                                        (
+                                        )
+
+                                    [1] => tc_render_menu
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__slider] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac000000000eaed931atc_display_slider] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_slider Object
+                                        (
+                                        )
+
+                                    [1] => tc_display_slider
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__404] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac300000000eaed931atc_content_404] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_404 Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_404
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__attachment] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac200000000eaed931atc_content_attachment] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_attachment Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_attachment
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__breadcrumb] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac500000000eaed931atc_get_breadcrumb] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_breadcrumb Object
+                                        (
+                                        )
+
+                                    [1] => tc_get_breadcrumb
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__comment_title] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac400000000eaed931atc_comment_title] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_comments Object
+                                        (
+                                        )
+
+                                    [1] => tc_comment_title
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__comment_list] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac400000000eaed931atc_comment_list] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_comments Object
+                                        (
+                                        )
+
+                                    [1] => tc_comment_list
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__comment_navigation] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac400000000eaed931atc_comment_navigation] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_comments Object
+                                        (
+                                        )
+
+                                    [1] => tc_comment_navigation
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__comment_close] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac400000000eaed931atc_comment_close] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_comments Object
+                                        (
+                                        )
+
+                                    [1] => tc_comment_close
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__fp_block] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac700000000eaed931atc_display_fp_block] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_featured_pages Object
+                                        (
+                                        )
+
+                                    [1] => tc_display_fp_block
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__fp_single] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac700000000eaed931atc_display_fp_single] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_featured_pages Object
+                                        (
+                                        )
+
+                                    [1] => tc_display_fp_single
+                                )
+
+                            [accepted_args] => 2
+                        )
+
+                )
+
+        )
+
+    [__post_nav] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac600000000eaed931atc_post_nav] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_nav Object
+                                        (
+                                        )
+
+                                    [1] => tc_post_nav
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__no_result] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac900000000eaed931atc_content_no_result] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_no_results Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_no_result
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__page] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ac800000000eaed931atc_content_page] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_page Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_page
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__post] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47acb00000000eaed931atc_content_post] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_post Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_post
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__post_header] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47acb00000000eaed931atc_content_post_header] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_post Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_post_header
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__post_list_header] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47acb00000000eaed931atc_content_post_list_header] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_post Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_post_list_header
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__post_metas] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47acb00000000eaed931atc_content_post_metas] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_post Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_post_metas
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__post_footer] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47acb00000000eaed931atc_content_post_footer] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_post Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_post_footer
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__post_thumbnail] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47acb00000000eaed931atc_content_post_thumbnail] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_post Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_post_thumbnail
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__category_list] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47acb00000000eaed931atc_content_category_list] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_post Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_category_list
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__tag_list] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47acb00000000eaed931atc_content_tag_list] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_post Object
+                                        (
+                                        )
+
+                                    [1] => tc_content_tag_list
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__thumbnail] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47acb00000000eaed931atc_has_thumbnail] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_post Object
+                                        (
+                                        )
+
+                                    [1] => tc_has_thumbnail
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [__sidebar] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47aca00000000eaed931atc_get_sidebar] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => TC_sidebar Object
+                                        (
+                                        )
+
+                                    [1] => tc_get_sidebar
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [title_save_pre] => Array
+        (
+            [10] => Array
+                (
+                    [wp_filter_kses] => Array
+                        (
+                            [function] => wp_filter_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [content_filtered_save_pre] => Array
+        (
+            [10] => Array
+                (
+                    [wp_filter_post_kses] => Array
+                        (
+                            [function] => wp_filter_post_kses
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [deleted_post] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ad500000000eaed931aflush_widget_cache] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Widget_Recent_Posts Object
+                                        (
+                                            [id_base] => recent-posts
+                                            [name] => 近期文章
+                                            [widget_options] => Array
+                                                (
+                                                    [classname] => widget_recent_entries
+                                                    [description] => 您站点最近的文章
+                                                )
+
+                                            [control_options] => Array
+                                                (
+                                                    [id_base] => recent-posts
+                                                )
+
+                                            [number] => 2
+                                            [id] => recent-posts-2
+                                            [updated] => 
+                                            [option_name] => widget_recent-posts
+                                            [alt_option_name] => widget_recent_entries
+                                        )
+
+                                    [1] => flush_widget_cache
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [switch_theme] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ad500000000eaed931aflush_widget_cache] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Widget_Recent_Posts Object
+                                        (
+                                            [id_base] => recent-posts
+                                            [name] => 近期文章
+                                            [widget_options] => Array
+                                                (
+                                                    [classname] => widget_recent_entries
+                                                    [description] => 您站点最近的文章
+                                                )
+
+                                            [control_options] => Array
+                                                (
+                                                    [id_base] => recent-posts
+                                                )
+
+                                            [number] => 2
+                                            [id] => recent-posts-2
+                                            [updated] => 
+                                            [option_name] => widget_recent-posts
+                                            [alt_option_name] => widget_recent_entries
+                                        )
+
+                                    [1] => flush_widget_cache
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [comment_post] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ad400000000eaed931aflush_widget_cache] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Widget_Recent_Comments Object
+                                        (
+                                            [id_base] => recent-comments
+                                            [name] => 近期评论
+                                            [widget_options] => Array
+                                                (
+                                                    [classname] => widget_recent_comments
+                                                    [description] => 近期的数条评论
+                                                )
+
+                                            [control_options] => Array
+                                                (
+                                                    [id_base] => recent-comments
+                                                )
+
+                                            [number] => 2
+                                            [id] => recent-comments-2
+                                            [updated] => 
+                                            [option_name] => widget_recent-comments
+                                            [alt_option_name] => widget_recent_comments
+                                        )
+
+                                    [1] => flush_widget_cache
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+    [transition_comment_status] => Array
+        (
+            [10] => Array
+                (
+                    [000000006db47ad400000000eaed931aflush_widget_cache] => Array
+                        (
+                            [function] => Array
+                                (
+                                    [0] => WP_Widget_Recent_Comments Object
+                                        (
+                                            [id_base] => recent-comments
+                                            [name] => 近期评论
+                                            [widget_options] => Array
+                                                (
+                                                    [classname] => widget_recent_comments
+                                                    [description] => 近期的数条评论
+                                                )
+
+                                            [control_options] => Array
+                                                (
+                                                    [id_base] => recent-comments
+                                                )
+
+                                            [number] => 2
+                                            [id] => recent-comments-2
+                                            [updated] => 
+                                            [option_name] => widget_recent-comments
+                                            [alt_option_name] => widget_recent_comments
+                                        )
+
+                                    [1] => flush_widget_cache
+                                )
+
+                            [accepted_args] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+------------------------------------------
+Array
+(
+    [10] => Array
+        (
+            [000000006db47a3c00000000eaed931atc_display_head] => Array
+                (
+                    [function] => Array
+                        (
+                            [0] => TC_header Object
+                                (
+                                )
+
+                            [1] => tc_display_head
+                        )
+
+                    [accepted_args] => 1
+                )
+
+        )
+
+)
+

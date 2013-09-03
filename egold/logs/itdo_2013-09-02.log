@@ -1,0 +1,41 @@
+_GET is: 
+Array
+(
+)
+
+wp_filter[__head] : 
+Array
+(
+    [function] => Array
+        (
+            [0] => TC_header Object
+                (
+                )
+
+            [1] => tc_display_head
+        )
+
+    [accepted_args] => 1
+)
+
+------------------------------------
+Array
+(
+    [0] => TC_header Object
+        (
+        )
+
+    [1] => tc_display_head
+)
+
+_GET is: 
+Array
+(
+)
+
+_GET is: 
+Array
+(
+    [doing_wp_cron] => 1378163169.3558819293975830078125
+)
+

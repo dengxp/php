@@ -1,0 +1,3 @@
+127.0.0.1 - - [03/Sep/2013:07:06:05 +0800] 4696269 + "GET / HTTP/1.1" 200 8633 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36"
+127.0.0.1 - - [03/Sep/2013:07:06:11 +0800] 0 + "GET /favicon.ico HTTP/1.1" 404 209 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36"
+127.0.0.1 - - [03/Sep/2013:07:06:24 +0800] 3533202 - "POST /wp-cron.php?doing_wp_cron=1378163169.3558819293975830078125 HTTP/1.0" 200 - "-" "WordPress/3.6; http://egold.ucdo.cn"

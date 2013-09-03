@@ -1,0 +1,9 @@
+<?php 
+function Test() 
+{ 
+	echo "function arg num: " . func_num_args(); 
+    // echo func_num_args(); 
+} 
+
+Test('a','b','c');  // 3 
+?>
