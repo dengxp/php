@@ -8,8 +8,6 @@
  */
 get_header();
 
-/*
-
     do_action( '__fp_block' );
 
     do_action( '__breadcrumb' );
@@ -36,5 +34,5 @@ get_header();
 
 
 get_footer();
-*/
+
 ?>
